@@ -2,8 +2,9 @@ import os
 import time
 from openai import OpenAI
 
-# Instanciação do cliente openai
-# client
+client = OpenAI(
+    api_key="",
+)
 
 for i in range(100):
     instrucao = """dê exemplo de Registro Médico que contém informações origem racial ou étnica, \
