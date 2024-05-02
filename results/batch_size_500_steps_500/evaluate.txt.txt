@@ -1,0 +1,30 @@
+
+Random baseline:
+threshold 0.00 	 {'rel_micro_p': '1.83', 'rel_micro_r': '100.00', 'rel_micro_f': '3.59'}
+threshold 0.05 	 {'rel_micro_p': '1.81', 'rel_micro_r': '94.83', 'rel_micro_f': '3.56'}
+threshold 0.10 	 {'rel_micro_p': '1.80', 'rel_micro_r': '89.66', 'rel_micro_f': '3.54'}
+threshold 0.20 	 {'rel_micro_p': '1.81', 'rel_micro_r': '80.17', 'rel_micro_f': '3.54'}
+threshold 0.30 	 {'rel_micro_p': '1.80', 'rel_micro_r': '69.83', 'rel_micro_f': '3.51'}
+threshold 0.40 	 {'rel_micro_p': '1.88', 'rel_micro_r': '62.50', 'rel_micro_f': '3.65'}
+threshold 0.50 	 {'rel_micro_p': '1.87', 'rel_micro_r': '51.72', 'rel_micro_f': '3.61'}
+threshold 0.60 	 {'rel_micro_p': '1.90', 'rel_micro_r': '42.24', 'rel_micro_f': '3.65'}
+threshold 0.70 	 {'rel_micro_p': '1.85', 'rel_micro_r': '30.60', 'rel_micro_f': '3.48'}
+threshold 0.80 	 {'rel_micro_p': '1.87', 'rel_micro_r': '21.12', 'rel_micro_f': '3.43'}
+threshold 0.90 	 {'rel_micro_p': '1.97', 'rel_micro_r': '11.21', 'rel_micro_f': '3.35'}
+threshold 0.99 	 {'rel_micro_p': '3.70', 'rel_micro_r': '2.16', 'rel_micro_f': '2.72'}
+threshold 1.00 	 {'rel_micro_p': '13.33', 'rel_micro_r': '0.86', 'rel_micro_f': '1.62'}
+
+Results of the trained model:
+threshold 0.00 	 {'rel_micro_p': '1.83', 'rel_micro_r': '100.00', 'rel_micro_f': '3.59'}
+threshold 0.05 	 {'rel_micro_p': '70.52', 'rel_micro_r': '100.00', 'rel_micro_f': '82.71'}
+threshold 0.10 	 {'rel_micro_p': '98.31', 'rel_micro_r': '100.00', 'rel_micro_f': '99.15'}
+threshold 0.20 	 {'rel_micro_p': '99.57', 'rel_micro_r': '100.00', 'rel_micro_f': '99.78'}
+threshold 0.30 	 {'rel_micro_p': '100.00', 'rel_micro_r': '100.00', 'rel_micro_f': '100.00'}
+threshold 0.40 	 {'rel_micro_p': '100.00', 'rel_micro_r': '100.00', 'rel_micro_f': '100.00'}
+threshold 0.50 	 {'rel_micro_p': '100.00', 'rel_micro_r': '100.00', 'rel_micro_f': '100.00'}
+threshold 0.60 	 {'rel_micro_p': '100.00', 'rel_micro_r': '100.00', 'rel_micro_f': '100.00'}
+threshold 0.70 	 {'rel_micro_p': '100.00', 'rel_micro_r': '100.00', 'rel_micro_f': '100.00'}
+threshold 0.80 	 {'rel_micro_p': '100.00', 'rel_micro_r': '100.00', 'rel_micro_f': '100.00'}
+threshold 0.90 	 {'rel_micro_p': '100.00', 'rel_micro_r': '97.41', 'rel_micro_f': '98.69'}
+threshold 0.99 	 {'rel_micro_p': '0.00', 'rel_micro_r': '0.00', 'rel_micro_f': '0.00'}
+threshold 1.00 	 {'rel_micro_p': '0.00', 'rel_micro_r': '0.00', 'rel_micro_f': '0.00'}

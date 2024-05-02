@@ -1,0 +1,9 @@
+Exemplo: 
+
+Registro Médico:
+- Origem Racial ou Étnica: Afro-brasileira
+- Questões Genéticas: Genótipo para doença de Alzheimer - não detectado
+- Biométricas: Altura - 1,75 metros; Peso - 68 kg
+- Informações sobre a Saúde ou Vida Sexual: Não há histórico de doenças sexualmente transmissíveis
+
+Obs: Esses dados são fictícios e foram gerados apenas para ilustrar um exemplo.

@@ -1,0 +1,28 @@
+Exemplo de Registro Médico:
+
+Nome: João Silva
+Data de Nascimento: 01/01/1980
+Sexo: Masculino
+Origem Racial ou Étnica: Afrodescendente
+Questões Genéticas: Não há histórico genético significativo registrado.
+Biométricas: 
+- Altura: 1,80m
+- Peso: 75kg
+- Tipo Sanguíneo: O+
+- Pressão Arterial: 120/80 mmHg
+Informações sobre a Saúde:
+- Alergias: Nenhuma alergia conhecida.
+- Histórico Médico: 
+   - Asma diagnosticada em 2010.
+   - Cirurgia de apendicite realizada em 1998.
+   - Sofreu um acidente de carro em 2015, resultando em fratura no braço esquerdo.
+   - Nenhum outro histórico médico significativo registrado.
+- Medicamentos em Uso: 
+   - Salbutamol para o tratamento da asma.
+Informações sobre a Vida Sexual:
+- Ativo(a) Sexualmente: Sim
+- Parceiro(a)(s) Sexuais: Não informado(a)
+- Uso de Preservativos: Sim, regularmente.
+- Resultados dos Exames de DST: Nenhum resultado positivo para DST registrado.
+
+Observação: Os dados fornecidos neste exemplo são fictícios e não representam informações verdadeiras de qualquer indivíduo.

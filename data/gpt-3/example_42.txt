@@ -1,0 +1,25 @@
+Exemplo de Registro Médico:
+
+Nome do Paciente: João da Silva
+Data de Nascimento: 01/01/1980
+Sexo: Masculino
+Origem Racial ou Étnica: Branco
+Tipo Sanguíneo: A+
+Peso: 80 kg
+Altura: 1,75 m
+Histórico Familiar de Doenças Genéticas: Não
+Alergias: Nenhuma
+Fumante: Não
+Colesterol: Normal
+Pressão Arterial: 120/80 mmHg
+Problemas Cardíacos: Não
+Atividade Física Regular: 3 vezes por semana
+Vacinação em dia: Sim
+Histórico de Doenças Graves: Nenhum
+Histórico de Cirurgias: Nenhuma
+Histórico de Doenças Sexualmente Transmissíveis: Nenhuma
+Parceiros Sexuais nos últimos 6 meses: 1
+Uso de Preservativo: Sim
+Método Contraceptivo: Camisinha
+
+Obs.: Essas informações são fictícias e meramente ilustrativas para fins de exemplo.

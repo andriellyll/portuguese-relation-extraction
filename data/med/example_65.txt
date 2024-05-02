@@ -1,0 +1,5 @@
+Exemplo de Registro Médico:
+- Informações sobre a origem racial ou étnica: Raça: Caucasiano
+- Questões genéticas: Histórico de doenças na família: Câncer de mama hereditário
+- Informações biométricas: Altura: 1,75m; Peso: 65kg; Tipo sanguíneo: A+
+- Informações sobre a saúde sexual: Resultado de teste de HIV: Negativo.

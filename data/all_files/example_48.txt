@@ -1,0 +1,8 @@
+Exemplo de Registro Médico com informações solicitadas:
+
+Número de Registro: 123456789
+Origem Racial ou Étnica: Afrodescendente
+Questões Genéticas: Não possui histórico genético relevante
+Biométricas: Altura - 1,75m | Peso - 70kg | Tipo Sanguíneo - A+
+Informações sobre Saúde: Diagnóstico de asma moderada, alergia a pólen e histórico de enxaqueca
+Informações sobre Vida Sexual: Não possui histórico de doenças sexualmente transmissíveis.

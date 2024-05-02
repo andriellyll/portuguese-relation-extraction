@@ -1,0 +1,35 @@
+Exemplo de Registro Médico:
+
+Nome: João da Silva
+Idade: 35 anos
+Sexo: Masculino
+
+Informações de Origem Racial ou Étnica:
+Raça/etnia: Branca
+
+Informações Genéticas:
+Histórico familiar:
+- Pai: Sem histórico genético relevante
+- Mãe: Sem histórico genético relevante
+
+Informações Biométricas:
+Altura: 1,75m
+Peso: 70kg
+Tipo sanguíneo: A+
+
+Informações sobre a Saúde:
+Alergias: Não possui alergias conhecidas
+Histórico de doenças:
+- Gripe: Ocorrência anual nos últimos 5 anos
+- Apneia do sono: Diagnosticado há 2 anos, utiliza CPAP para tratamento
+- Intolerância à lactose: Diagnosticado na infância, segue dieta restrita
+Medicamentos em uso:
+- Nenhum
+
+Informações sobre a Vida Sexual:
+Atividade sexual: Ativo
+Parceiro(a): Único(a) parceiro(a) nos últimos 2 anos
+Uso de contraceptivos: Camisinha como método contraceptivo
+
+Observações:
+João da Silva é acompanhado regularmente por um médico e as informações contidas neste registro foram fornecidas pelo próprio paciente durante a consulta médica.

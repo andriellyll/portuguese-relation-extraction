@@ -1,0 +1,13 @@
+Exemplo de Registro Médico (em formato de texto corrido):
+
+Nome do Paciente: Maria Silva
+Data de Nascimento: 12/05/1980
+Relatório Médico: 
+
+Origem Racial ou Étnica: Latina
+Questões Genéticas: Não há histórico conhecido de doenças genéticas na família.
+Biométricas: Peso atual: 65 kg | Altura: 1,65 m | Pressão arterial: 120/80 mmHg
+Informações sobre a Saúde: A paciente apresenta histórico de alergias sazonais e asma. Não há registro de doenças crônicas.
+Vida Sexual: A paciente relatou estar sexualmente ativa e utilizar método contraceptivo oral.
+
+Fim do Relatório.

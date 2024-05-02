@@ -1,0 +1,35 @@
+Exemplo de Registro Médico:
+
+Nome: João da Silva
+Gênero: Masculino
+Data de Nascimento: 01/01/1980
+Origem Racial ou Étnica: Branco
+Endereço: Rua das Flores, 123 - Cidade X - Estado Y - CEP: 12345-678
+Telefone: (12) 3456-7890
+E-mail: joao.silva@email.com
+
+Informações Biométricas:
+- Tipo Sanguíneo: O+
+- Altura: 1,80m
+- Peso: 80kg
+
+Informações Genéticas:
+- Histórico Familiar: Nenhum conhecido
+- Testes Genéticos Realizados: Não realizados
+
+Histórico Médico:
+- Alergias Conhecidas: Nenhum
+- Doenças Crônicas: Nenhuma
+- Cirurgias Realizadas: Apendicectomia em 2005
+
+Histórico de Saúde e Sexual:
+- Atividades Físicas Realizadas: Caminhada 3 vezes por semana
+- Hábitos Alimentares: Alimentação saudável, evitando alimentos processados
+- Uso Regular de Medicamentos: Nenhum
+- Exames de Rotina Realizados: Check-up anual
+- Exames Ginecológicos (no caso de mulheres): Não aplicável
+- Informações sobre Saúde Sexual: Ativa, utiliza métodos contraceptivos e realiza exames regularmente
+
+Observações:
+- Paciente em bom estado de saúde geral, sem histórico relevante de doenças ou condições. Mantém um estilo de vida saudável e segue as orientações médicas.
+- As informações contidas neste registro são de caráter confidencial, sendo destinadas apenas aos profissionais de saúde envolvidos no atendimento do paciente.

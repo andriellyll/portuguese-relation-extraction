@@ -1,0 +1,31 @@
+Exemplo de Registro Médico utilizando dados sintéticos:
+
+Nome: João da Silva
+Data de Nascimento: 01/01/1970
+Gênero: Masculino
+Origem Racial ou Étnica: Afro-brasileiro
+Telefone: (11) 98765-4321
+Endereço: Rua das Flores, 123, São Paulo - SP, CEP: 01234-567
+Tipo Sanguíneo: O+
+Histórico Familiar:
+- Mãe: Hipertensão arterial
+- Pai: Diabetes tipo 2
+Questões Genéticas:
+- Não há histórico de doenças genéticas conhecidas na família
+Histórico de Saúde:
+- Cirurgia de apendicite em 1985
+- Tomografia computadorizada do crânio em 2010 (resultado normal)
+- Exames de sangue anuais, sem alterações significativas nos últimos 5 anos
+- Vacinação em dia (tétano, influenza, hepatite B, etc.)
+Histórico de Vida Sexual:
+- Número de parceiros sexuais: 2
+- Utilização de contraceptivos: preservativo
+- Último exame de HIV/STDs: março de 2021 (resultado negativo)
+Informações Biométricas:
+- Altura: 1,75m
+- Peso: 80kg
+- Pressão arterial: 120/80 mmHg
+- Frequência cardíaca: 70 batimentos por minuto
+- Índice de Massa Corporal (IMC): 26.1 (sobrepeso)
+
+Observações: O registro médico acima é fictício e deve ser utilizado apenas para fins de exemplo. Os dados aqui apresentados não correspondem a informações reais de qualquer pessoa.

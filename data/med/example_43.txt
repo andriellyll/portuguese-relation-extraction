@@ -1,0 +1,9 @@
+Registro Médico com informações sobre a vida sexual de uma pessoa:
+- Data de registro: 01/01/2022
+- Nome do paciente: Ana Silva
+- Origem racial ou étnica: Brasileira
+- Idade: 28 anos
+- Gênero: Feminino
+- Resultado do exame de saúde sexual: Paciente relatou ter múltiplos parceiros sexuais nos últimos 6 meses.
+- Observações adicionais: Nenhuma doença sexualmente transmissível ou complicações relacionadas foram identificadas nos exames realizados até o momento.
+- Assinatura do médico responsável: Dr. Eduardo Santos.

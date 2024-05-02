@@ -1,0 +1,12 @@
+Exemplo de Registro Médico:
+
+Nome: João da Silva
+Data de nascimento: 10/05/1985
+Gênero: Masculino
+Origem racial ou étnica: Pardo
+Questões genéticas: Não há informações sobre questões genéticas relevantes.
+Biométricas: Não há informações biométricas relevantes.
+Informações sobre a saúde: Paciente possui histórico de alergias a determinados medicamentos, sendo necessário cautela ao prescrever medicamentos. Não possui doenças crônicas conhecidas até o momento.
+Informações sobre a vida sexual: Paciente não relatou informações relevantes sobre sua vida sexual.
+
+Obs: Os dados sintéticos foram utilizados para preservar a privacidade e anonimato do paciente.

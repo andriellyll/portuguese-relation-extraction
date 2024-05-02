@@ -1,0 +1,33 @@
+Exemplo de Registro Médico de Paciente:
+
+Nome: João Silva
+Data de nascimento: 01/01/1980
+Gênero: Masculino
+
+Informações sobre a origem racial ou étnica:
+- Raça: Branca
+- Etnia: Portuguesa
+
+Informações genéticas:
+- Histórico familiar de doenças cardíacas: Não
+- Testes genéticos realizados: Não há registros de testes genéticos
+
+Informações biométricas:
+- Tipo sanguíneo: A+
+- Peso: 75 kg
+- Altura: 1,80 m
+- Pressão arterial: 120/80 mmHg
+
+Informações sobre a saúde:
+- Alergias conhecidas: Nenhuma
+- Doenças crônicas: Nenhuma
+- Cirurgias anteriores: Apendicectomia em 2005
+
+Informações sobre a vida sexual:
+- Atividade sexual: Ativa
+- Uso de contraceptivos: Preservativo
+
+Observações:
+O paciente João Silva está clinicamente saudável, sem histórico familiar de doenças genéticas significativas. Suas informações biométricas estão dentro dos padrões normais. Não há registros de problemas de saúde ou vida sexual relevantes.
+
+Por favor, note que os dados fornecidos acima são fictícios e com o objetivo de exemplificar um Registro Médico. A privacidade e a confidencialidade das informações pessoais devem ser sempre respeitadas e protegidas.

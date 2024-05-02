@@ -1,0 +1,16 @@
+Exemplo de Registro Médico com informações sobre a saúde de uma pessoa:
+
+Nome: Ana Silva
+Data de Nascimento: 10/05/1980
+Sexo: Feminino
+Origem racial ou étnica: Branca
+Histórico Familiar: Não há histórico de doenças genéticas na família
+Doenças Crônicas: Nenhuma
+Alergias: Nenhuma
+Tipo Sanguíneo: A+
+Medicamentos em Uso: Nenhum
+Histórico de Cirurgias: Nenhuma
+Histórico de Doenças Infecciosas: Gripe e resfriados ocasionais
+Histórico de Vacinação: Vacinas em dia (Hepatite B, Tétano, Gripe, etc.)
+Histórico de Saúde Sexual: Nenhuma doença sexualmente transmissível diagnosticada nos últimos 3 anos. Prática de sexo seguro utilizando preservativo em todas as relações.
+Estado Atual de Saúde: Bem, sem queixas ou sintomas.

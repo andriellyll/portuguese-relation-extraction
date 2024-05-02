@@ -1,0 +1,21 @@
+Exemplo de Registro Médico com informações sensíveis:
+
+Nome: João da Silva
+Data de Nascimento: 01/01/1980
+Origem racial ou étnica: Branco
+Questões genéticas: Nenhum histórico genético relevante
+Biométricas: Altura: 1,80m / Peso: 70kg / Tipo sanguíneo: O+
+Informações sobre a saúde: 
+- Diagnóstico: Asma crônica
+- Medicação: Utiliza bombinha de asma (Salbutamol) conforme necessário
+- Alergias: Nenhuma conhecida
+Informações sobre a vida sexual:
+- Ativo sexualmente
+- Utiliza preservativos como método de proteção
+- Não possui histórico de DSTs
+
+Observações adicionais:
+- João da Silva pratica exercícios físicos regularmente.
+- Realiza check-ups anuais e consultas com o médico especialista em asma a cada 6 meses.
+
+Lembrando que esses dados são fictícios e utilizados apenas para fins de exemplo sintético.

@@ -1,0 +1,28 @@
+Exemplo de Registro Médico:
+
+Nome do paciente: Maria Silva
+Data de Nascimento: 10/02/1985
+Número de Identificação: 12345678
+
+Origem racial ou étnica:
+- Raça/etnia declarada pelo paciente: Parda
+
+Questões genéticas:
+- Composição genética identificada:
+  - Procedimento genético realizado: Sequenciamento de DNA
+  - Resultado: Não identificado nenhuma alteração genética relevante
+
+Biométricas:
+- Dados biométricos registrados:
+  - Altura: 1,65 metros
+  - Peso: 65kg
+  - Pressão sanguínea: 120/80 mmHg
+  - Frequência cardíaca: 72 bpm
+
+Saúde sexual:
+- Informações sobre a saúde sexual:
+  - Histórico de doenças sexualmente transmissíveis: Não relatado
+  - Uso de contraceptivos: Não relatado
+  - Histórico de gravidez: 2 vezes, ambas gestações saudáveis e partos normais
+
+Este exemplo utiliza dados sintéticos para ilustrar informações que podem constar em um Registro Médico, de acordo com as categorias solicitadas. É importante ressaltar que os dados são fictícios e não correspondem a informações reais de uma pessoa específica.

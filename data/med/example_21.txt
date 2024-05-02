@@ -1,0 +1,17 @@
+Exemplo de Registro Médico:
+
+Nome: João Silva
+
+Idade: 35 anos
+
+Origem Racial ou Étnica: Afrodescendente
+
+Questões Genéticas: Não possui histórico de doenças genéticas na família.
+
+Biométricas: Altura: 1,75 m / Peso: 75 kg / Tipo sanguíneo: A+
+
+Informações sobre a Saúde: Sofreu uma lesão no joelho direito há dois anos durante a prática de esportes. Passou por reabilitação e atualmente não apresenta restrições de atividade física.
+
+Informações sobre a Vida Sexual: Não possui histórico de doenças sexualmente transmissíveis. Utiliza método contraceptivo (preservativo) durante as relações sexuais.
+
+Lembrando que esses dados são fictícios e foram criados para exemplificar um Registro Médico que contém informações sobre origem racial ou étnica, questões genéticas, biométricas e sobre a saúde ou a vida sexual de uma pessoa.

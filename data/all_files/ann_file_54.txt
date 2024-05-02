@@ -1,0 +1,31 @@
+Exemplo de Registro Médico em formato de texto corrido:
+
+Nome: Maria Silva
+Data de Nascimento: 15/05/1980
+Origem Racial ou Étnica: Negra
+Questões Genéticas: Nenhuma informação relevante
+Biométricas: 1,65m de altura, 65kg
+Informações sobre a Saúde: Paciente apresenta histórico de pressão alta e diabetes tipo 2, ambos controlados com medicamentos. Não possui histórico de câncer ou outras doenças genéticas.
+Informações sobre a Vida Sexual: Paciente é sexualmente ativa, atualmente sem parceiro fixo. Usa contraceptivos orais para prevenção de gravidez.
+
+Exemplo de Registro Médico em formato de formulário:
+
+Nome: Maria Silva
+Data de Nascimento: 15/05/1980
+Origem Racial ou Étnica: Negra
+Questões Genéticas: Nenhuma informação relevante
+Biométricas:
+  - Altura: 1,65m
+  - Peso: 65kg
+Informações sobre a Saúde: 
+  - Histórico de pressão alta: Não
+  - Histórico de diabetes: Sim
+     - Tipo: 2
+     - Controlado com medicamentos: Sim
+  - Histórico de câncer: Não
+  - Outras doenças genéticas: Não
+Informações sobre a Vida Sexual: 
+  - Atividade Sexual: Sim
+  - Parceiro Fixo: Não
+  - Utilização de contraceptivos: Sim
+     - Método: Contraceptivos Orais

@@ -1,0 +1,8 @@
+Exemplo de Registro Médico:
+- Nome: Joana Silva
+- Idade: 38 anos
+- Origem racial ou étnica: Europeia
+- Questões genéticas: Não há histórico genético relevante na família.
+- Biométricas: Altura: 1,65m / Peso: 60kg / Tipo sanguíneo: A+
+- Informações sobre a saúde: Diagnóstico de hipertensão arterial controlada com medicação.
+- Informações sobre a vida sexual: Não há informações relevantes sobre a vida sexual da paciente.

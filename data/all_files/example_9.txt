@@ -1,0 +1,30 @@
+Exemplo de Registro Médico:
+
+Paciente: João Silva
+Data de nascimento: 15/03/1985
+Gênero: Masculino
+
+Informações Sensíveis:
+
+1) Origem racial ou étnica:
+   Raça: Branca
+   Etnia: Portuguesa
+
+2) Questões genéticas:
+   Histórico familiar de doenças cardíacas:
+   - Pai: Não possui
+   - Mãe: Não possui
+   - Avô paterno: Sim, hipertensão arterial
+
+3) Biométricas:
+   Peso: 75 kg
+   Altura: 1,80 m
+   Grupo sanguíneo: AB+
+
+4) Sobre a saúde ou vida sexual:
+   - Doenças crônicas ou pré-existentes: Asma
+   - Medicação atual: Salbutamol (para asma)
+   - Última relação sexual: 10/08/2021
+   - Histórico de doenças sexualmente transmissíveis: Nenhuma
+
+Este é um exemplo de Registro Médico fictício, que contém informações sensíveis relacionadas à origem racial ou étnica, questões genéticas, biométricas e sobre a saúde ou vida sexual de uma pessoa. Vale ressaltar que esses dados são sintéticos e não correspondem a uma pessoa real.

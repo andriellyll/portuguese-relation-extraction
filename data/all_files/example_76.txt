@@ -1,0 +1,11 @@
+Exemplo de Registro Médico:
+
+Nome: João da Silva
+Data de Nascimento: 01/01/1990
+Origem Racial/Etnica: Afrodescendente
+Questões Genéticas: Não há histórico genético relevante
+Biométricas: Tipo sanguíneo A+, altura 1,75m, peso 75kg
+Saúde: Histórico de asma leve e alergias respiratórias
+Vida Sexual: Não há histórico sexual relevante
+
+Espero que tenha ajudado!

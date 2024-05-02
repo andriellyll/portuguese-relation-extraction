@@ -1,0 +1,12 @@
+Exemplo de Registro Médico (formato de texto corrido):
+
+Paciente: João Silva
+Data de nascimento: 01/01/1980
+Gênero: Masculino
+Origem racial ou étnica: Brasileiro
+Questões genéticas: Nenhum histórico genético relevante registrado.
+Biométricas: Altura: 1,80m | Peso: 75kg | Tipo sanguíneo: A+
+Informações sobre a saúde: O paciente apresenta histórico de pressão arterial elevada, tratada com medicamentos prescritos. Além disso, foi diagnosticado com diabetes tipo 2 e segue um plano de alimentação e medicamentos específicos para controle da doença.
+Informações sobre a vida sexual: Paciente relata atividade sexual ativa, sem problemas de disfunção erétil ou outras complicações relacionadas.
+
+Por favor, tenha em mente que esses dados são fictícios e sintéticos, não representando informações reais de um paciente.

@@ -1,0 +1,23 @@
+Exemplo de Registro Médico:
+
+Nome da pessoa: João Silva
+Data de Nascimento: 01/01/1990
+Origem racial ou étnica: Latino-americano
+Questões genéticas: Não apresenta histórico genético relevante
+Biométricas: Altura - 1,80m, Peso - 75kg, Grupo sanguíneo - O+
+Informações sobre a saúde: 
+- Alergias: Nenhuma
+- Doenças crônicas: Nenhuma
+- Vacinação: Imunizado contra influenza e hepatite B
+- Medicamentos em uso: Nenhum
+
+Informações sobre a vida sexual:
+- Ativo sexualmente
+- Último teste de DST realizado em 01/01/2022 e resultado negativo
+
+Observações adicionais:
+- Praticante de atividades físicas regulares
+- Dieta balanceada e sem restrições alimentares
+- Não fumante
+
+Este é apenas um exemplo de registro médico fictício, usando dados sintéticos para ilustrar o tipo de informações que podem ser encontradas em um registro médico real. Os dados foram gerados com o intuito de preservar a privacidade e a segurança das pessoas. É importante lembrar que registros médicos são extremamente confidenciais e devem ser tratados com o devido sigilo.

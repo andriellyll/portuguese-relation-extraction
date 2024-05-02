@@ -1,0 +1,10 @@
+Exemplo de Registro Médico:
+
+Nome: João Silva
+Data de Nascimento: 15/05/1980
+Sexo: Masculino
+Origem Racial ou Étnica: Branco
+Questões Genéticas: Não há relato de doenças genéticas hereditárias na família.
+Biométricas: Altura: 1,80m; Peso: 80kg; Pressão arterial: 120/80mmHg.
+Informações sobre a Saúde: O paciente possui histórico de diabetes tipo 2.
+Informações sobre a Vida Sexual: O paciente relata ter vida sexual ativa sem doenças sexualmente transmissíveis.

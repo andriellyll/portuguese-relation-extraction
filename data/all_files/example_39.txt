@@ -1,0 +1,10 @@
+Nome: João Silva
+Data de Nascimento: 01/01/1980
+Registro Médico: 1234567890
+
+Exemplo de informações no Registro Médico:
+- Origem racial ou étnica: Branco
+- Questões genéticas: Não há histórico de doenças genéticas na família
+- Biométricas: Altura: 1,75m; Peso: 75kg
+- Saúde: Histórico de asma
+- Vida sexual: Não possui informações relevantes sobre a vida sexual.

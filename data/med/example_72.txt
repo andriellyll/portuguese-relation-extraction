@@ -1,0 +1,13 @@
+Exemplo de Registro Médico com informações solicitadas, utilizando dados sintéticos:
+
+Nome da pessoa: Joana Silva
+Data de nascimento: 01/01/1990
+Sexo: Feminino
+Origem racial ou étnica: Negra
+Questões genéticas: Não há histórico genético relevante na família.
+Biométricas: Altura - 1,65m / Peso - 65kg / Pressão arterial - 120/80 mmHg / Frequência cardíaca - 70 bpm
+Saúde: - Asma diagnosticada aos 10 anos de idade, controlada com medicamentos.
+- Histórico de alergias a amendoim e frutos do mar.
+- Não possui histórico de doenças crônicas como diabetes, hipertensão ou colesterol alto.
+- Realiza exames preventivos regularmente, tais como mamografia e exame de Papanicolau.
+Vida sexual: Ativa, utiliza contraceptivos de barreira e realiza exames ginecológicos anuais.

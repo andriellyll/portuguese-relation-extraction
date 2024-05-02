@@ -1,0 +1,13 @@
+Exemplo de Registro Médico:
+
+Nome: João da Silva
+Idade: 35 anos
+Sexo: Masculino
+Origem Racial ou Étnica: Branco
+Questões Genéticas: Nenhuma informação genética relevante registrada.
+Biométricas: Altura - 1,80m / Peso - 75kg / Tipo Sanguíneo - A+
+Informações sobre a Saúde: 
+- Histórico de alergias a penicilina
+- Cirurgia de apêndice realizada em 2010
+- Prática regular de atividades físicas
+Informações sobre a Vida Sexual: Não há registros relevantes sobre a vida sexual de João da Silva.

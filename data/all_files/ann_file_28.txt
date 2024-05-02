@@ -1,0 +1,49 @@
+Exemplo de Registro Médico:
+
+Nome: Maria Silva
+Gênero: Feminino
+Data de Nascimento: 15/05/1985
+Origem Racial ou Étnica: Latina
+Estado Civil: Casada
+Email: mariasilva@email.com
+Telefone: (00) 1234-5678
+Endereço: Rua A, nº 123 - Cidade, Estado
+
+Histórico Médico:
+
+- Alergias: Nenhuma conhecida
+- Cirurgias anteriores: Apendicectomia em 2005
+- Condições médicas pré-existentes: Não há
+- Medicações em uso: Nenhuma
+
+Histórico Familiar:
+
+- Doenças genéticas ou hereditárias na família: Diabetes tipo 2, hipertensão arterial
+
+Exames realizados:
+
+1. Exame de sangue:
+   - Glucose: 90 mg/dL
+   - Lipídios: Colesterol Total: 180 mg/dL, LDL: 110 mg/dL, HDL: 60 mg/dL
+   - Função renal: Creatinina: 0,8 mg/dL, Ureia: 25 mg/dL
+
+2. Teste de função pulmonar:
+   - Capacidade Vital Forçada (CVF): 3,5 L
+   - Volume Expiratório Forçado no Primeiro Segundo (VEF1): 2,8 L
+
+3. Eletrocardiograma: Ritmo sinusal normal, sem alterações significativas
+
+4. Ultrassonografia abdominal:
+   - Fígado: Dimensões normais, sem nódulos ou cistos visíveis
+   - Vesícula biliar: Sem cálculos ou sinais de inflamação
+   - Rins: Tamanho e formato normais, sem anormalidades visíveis
+   - Baço: Dimensões normais, sem alterações visíveis
+
+Observações adicionais:
+
+- Vida sexual: Ativa, utiliza método contraceptivo oral
+- Última menstruação: 10/07/2021
+- Número de gestações: 2
+- Número de partos: 2
+
+Esse é um exemplo de Registro Médico fictício, utilizando dados sintéticos, com informações sobre origem racial, biométricas e sobre a saúde e vida sexual da pessoa, conforme solicitado. Note que as informações são fictícias e não se referem a uma pessoa real.

@@ -1,0 +1,9 @@
+Um exemplo de Registro Médico que contém informações sobre a origem racial ou étnica, questões genéticas, biométricas e sobre a saúde ou a vida sexual de uma pessoa, utilizando dados sintéticos, poderia ser:
+
+Nome: João da Silva
+Origem Racial ou Étnica: Afrodescendente
+Questões Genéticas: Não detectado histórico de doenças genéticas hereditárias.
+Biométricas: Peso: 70 kg, Altura: 1,75 m, Tipo Sanguíneo: A+.
+Saúde Sexual: Não apresenta histórico de doenças sexualmente transmissíveis, praticante de sexo seguro.
+
+Lembrando que os dados fornecidos são apenas fictícios e não estão relacionados a nenhuma pessoa de verdade.

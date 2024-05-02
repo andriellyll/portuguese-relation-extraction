@@ -1,0 +1,29 @@
+Exemplo de Registro Médico:
+
+Nome do Paciente: João da Silva
+Data de Nascimento: 01/01/1980
+Endereço: Rua das Palmeiras, 123, Bairro Centro, Cidade X
+
+Informações sobre a origem racial ou étnica:
+- Raça/etnia: Branco
+
+Informações genéticas:
+- Histórico Familiar de Doenças Genéticas: Não há histórico conhecido de doenças genéticas na família.
+
+Informações biométricas:
+- Tipo Sanguíneo: A positivo
+- Altura: 1,75m
+- Peso: 70kg
+
+Informações sobre a saúde:
+- Alergias: Nenhuma alergia conhecida.
+- Doenças crônicas: Nenhuma doença crônica conhecida.
+- Cirurgias prévias: Nenhuma cirurgia prévia.
+- Medicamentos em uso: Nenhum medicamento em uso atualmente.
+
+Informações sobre a vida sexual:
+- Parceiro sexual: Heterossexual
+- Informações sobre contracepção: Utiliza contraceptivo de barreira (camisinha) durante as relações sexuais.
+- Histórico de doenças sexualmente transmissíveis: Nenhuma doença sexualmente transmissível conhecida.
+
+Essas informações são hipotéticas e foram criadas apenas para fornecer um exemplo de como um registro médico pode conter informações sobre origem racial ou étnica, questões genéticas, biométricas e sobre a saúde ou a vida sexual de uma pessoa.

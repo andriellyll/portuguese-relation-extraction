@@ -1,0 +1,21 @@
+Registro Médico: 
+
+Paciente: João da Silva
+Data de Nascimento: 01/01/1980
+Origem Racial/Etnia: Afrodescendente
+
+Histórico Genético:
+- Possui histórico familiar de diabetes tipo 2.
+- Mutação no gene BRCA1, indicando maior risco para câncer de mama.
+- Resultado negativo para a doença de Huntington.
+
+Biométricas:
+- Altura: 1,75m
+- Peso: 70kg
+- Tipo sanguíneo: A positivo
+
+Saúde Sexual:
+- Ativo sexualmente, sem histórico de doenças sexualmente transmissíveis.
+- Realizou teste de HIV com resultado negativo.
+
+Observação: Estes dados são fictícios e foram criados para fins ilustrativos e exemplificação.

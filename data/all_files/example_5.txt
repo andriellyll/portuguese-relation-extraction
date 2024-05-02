@@ -1,0 +1,7 @@
+Exemplo de Registro Médico:
+
+- Origem racial ou étnica: Latino-americano
+- Questões genéticas: Não possui histórico de doenças hereditárias na família.
+- Biométricas: Altura: 1,75m, Peso: 70kg, Pressão arterial: 120/80mmHg.
+- Informações sobre a saúde: Sofreu uma fratura no braço direito em junho de 2018. Não possui alergias conhecidas. Atualmente, está em boas condições de saúde.
+- Informações sobre a vida sexual: Sexualmente ativo, utilizando contraceptivos e fazendo exames regulares de prevenção.

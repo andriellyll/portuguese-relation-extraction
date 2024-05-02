@@ -1,0 +1,26 @@
+Registro Médico:
+Nome do Paciente: Ana Silva
+Data de nascimento: 15/09/1985
+Gênero: Feminino
+Origem racial ou étnica: Asiática
+
+Informações Genéticas:
+- Histórico familiar de diabetes tipo 2: Nenhum.
+- Histórico familiar de doenças cardíacas: Nenhum.
+- Teste genético realizado: Não realizado.
+
+Biométricas:
+- Altura: 1,62 m
+- Peso: 64 kg
+- Tipo sanguíneo: A+
+
+Informações de Saúde:
+- Alergias conhecidas: Nenhuma.
+- Medicamentos em uso: Nenhum.
+- Cirurgias anteriores: Apendicectomia em 2005.
+
+Informações sobre a vida sexual:
+- Atividade sexual: Ativa
+- Número de parceiros sexuais nos últimos 12 meses: 1
+
+Obs: Todos os dados acima são fictícios e são fornecidos apenas como exemplo para ilustrar um registro médico com informações sensíveis sintéticas.

@@ -1,0 +1,8 @@
+T1	ETHNICITY 112 127	Afrodescendente
+T2	BIOMETRIC 201 215	Altura - 1,75m
+T3	BIOMETRIC 218 229	Peso - 70kg
+T4	BIOMETRIC 232 251	Tipo Sanguíneo - A+
+T5	MEDICAL_INFO 292 296	asma
+T6	MEDICAL_INFO 307 314	alergia
+T7	MEDICAL_INFO 338 347	enxaqueca
+T8	SEXUAL_INFO 403 437	doenças sexualmente transmissíveis

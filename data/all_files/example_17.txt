@@ -1,0 +1,11 @@
+Registro Médico:
+
+Nome: João da Silva
+Data de nascimento: 01/01/1980
+Origem racial ou étnica: Latino-americano
+Questões genéticas: Não há informações genéticas relevantes
+Biométricas: Altura: 1,75 m; Peso: 70 kg; Tipo sanguíneo: A+
+Informações sobre saúde: Histórico de asma desde a infância; Alergia a penicilina
+Informações sobre vida sexual: Ativo sexualmente; Uso regular de contraceptivos.
+
+Observação: Os dados mencionados acima são sintéticos e não representam informações reais de um paciente.

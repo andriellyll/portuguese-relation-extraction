@@ -1,0 +1,26 @@
+Exemplo de Registro Médico:
+
+Nome: Joana Silva
+Data de nascimento: 10/07/1985
+Sexo: Feminino
+Origem racial ou étnica: Afrodescendente
+Histórico genético: Não há doenças genéticas conhecidas na família
+Biométricas: 
+- Altura: 1,70m
+- Peso: 65kg
+- Tipo sanguíneo: O+
+Informações sobre a saúde:
+- Alergias: Não há alergias conhecidas
+- Histórico de doenças crônicas: Hipertensão arterial estável, controlada com medicamentos
+- Histórico de cirurgias: Apendicectomia em 2005
+- Resultados de exames:
+   - Pressão arterial: 120/80 mmHg
+   - Colesterol total: 180 mg/dL
+   - Glicemia de jejum: 90 mg/dL
+Informações sobre a vida sexual:
+- Atividade sexual: Ativa, com parceiro fixo
+- Métodos contraceptivos: Utiliza pílulas anticoncepcionais regulares
+- Número de parceiros sexuais nos últimos 12 meses: 1
+- Histórico de doenças sexualmente transmissíveis: Não há histórico de DSTs
+
+Este é um exemplo de registro médico fictício que contém informações sobre origem racial ou étnica, questões genéticas, biométricas e sobre a saúde ou a vida sexual de uma pessoa.

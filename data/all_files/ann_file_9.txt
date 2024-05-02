@@ -1,0 +1,16 @@
+Nome: João da Silva
+Data de Nascimento: 20/05/1990
+Gênero: Masculino
+Origem Racial ou Étnica: Caucásico
+Questões Genéticas: N/A
+Biométricas: Imagem facial para identificação
+Informações sobre a Saúde: 
+- Doenças crônicas: N/A
+- Alergias: N/A
+- Cirurgias prévias: N/A
+- Medicamentos em uso: N/A
+Informações sobre a Vida Sexual: 
+- Ativo sexualmente
+- Preferência sexual: Heterossexual
+- Uso de contraceptivos: Não
+- Testes de DST realizados: N/A

@@ -1,0 +1,10 @@
+Exemplo de Registro Médico contendo informações biométricas:
+
+- Nome: John Doe
+- Origem racial/étnica: Caucásico
+- Questões genéticas: Não há histórico familiar de doenças genéticas
+- Biométricas: Altura: 1,80m, Peso: 75kg, Grupo sanguíneo: A+, Impressão digital: [identificação biométrica sintética]
+- Informações sobre a saúde: Sofre de asma controlada, histórico de alergias sazonais
+- Informações sobre a vida sexual: Heterossexual, ativo, utiliza contraceptivos
+
+(Os dados apresentados são fictícios e não correspondem a nenhum indivíduo real)

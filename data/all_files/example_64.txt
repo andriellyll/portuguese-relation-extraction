@@ -1,0 +1,10 @@
+Exemplo de Registro Médico com informações de origem racial ou étnica, questões genéticas, biométricas e sobre saúde ou vida sexual de uma pessoa utilizando dados sintéticos:
+
+Nome: Ana Silva
+Data de Nascimento: 01/01/1980
+Gênero: Feminino
+Origem Racial/Etnia: Afrodescendente
+Questões Genéticas: Não possui histórico genético relevante.
+Biométricas: Altura: 1,65m / Peso: 65kg / Pressão arterial: 120/80 mmHg / Frequência cardíaca: 70 bpm
+Informações de Saúde: Não possui histórico de doenças crônicas. Apresenta quadro de alergias sazonais, tratadas com antialérgicos. Não realiza uso de medicamentos de uso contínuo. Não é fumante.
+Informações sobre Vida Sexual: Mantém vida sexual ativa, sem histórico de doenças sexualmente transmissíveis. Utiliza preservativo como método contraceptivo. Não possui queixas relacionadas à vida sexual.

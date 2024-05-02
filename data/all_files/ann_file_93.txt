@@ -1,0 +1,17 @@
+Exemplo de Registro Médico:
+
+Nome do Paciente: Maria Silva
+
+Idade: 35 anos
+
+Origem Racial ou Étnica: Parda
+
+Questões Genéticas: Nenhum histórico genético de doenças hereditárias conhecido
+
+Biométricas: Altura - 1,65 m; Peso - 70 kg; IMC - 25.7 (sobrepeso)
+
+Informações sobre a Saúde: Paciente apresenta quadro de hipertensão arterial controlada com medicação. Não há histórico de doenças cardíacas na família. Não fuma e não consome bebidas alcoólicas regularmente.
+
+Vida Sexual: Paciente é sexualmente ativa, praticando sexo seguro com o parceiro fixo. Utiliza método contraceptivo de barreira para evitar gravidez indesejada.
+
+Obs: Os dados apresentados são totalmente fictícios e têm como único objetivo ilustrar exemplos de informações relacionadas a origem racial ou étnica, questões genéticas, biométricas e sobre a saúde ou a vida sexual de uma pessoa em um registro médico. É importante ressaltar que todos os registros médicos devem garantir a privacidade e confidencialidade dos pacientes, seguindo as leis e regulamentações estabelecidas para a proteção de dados pessoais.

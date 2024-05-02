@@ -1,0 +1,12 @@
+Exemplo de Registro Médico: 
+
+Nome: Maria Silva
+Idade: 35 anos
+Gênero: Feminino
+Origem racial ou étnica: Caucasiana
+Questões genéticas: Não apresenta histórico de doenças genéticas na família
+Biométricas: Peso: 60 kg, Altura: 1,65 m, Tipo sanguíneo: A+
+Informações de saúde: Hipertensão controlada, alérgica a penicilina
+Vida sexual: Ativa, utilizando contraceptivos orais
+
+Obs: Os dados acima são totalmente fictícios e sintéticos, utilizados apenas para fins de exemplo.

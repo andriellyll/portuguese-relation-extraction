@@ -1,0 +1,33 @@
+Registro Médico:
+
+Nome do paciente: João Silva
+Data de nascimento: 01/01/1980
+Idade: 41 anos
+Gênero: Masculino
+Ocupação: Engenheiro
+
+Informações origem racial ou étnica: 
+Raça/Etnia: hispânico
+Origem: Brasil
+
+Questões genéticas:
+Histórico familiar de doenças genéticas: Não
+Doenças genéticas diagnosticadas: Nenhuma
+
+Informações biométricas:
+Altura: 1,75 m
+Peso: 75 kg
+Tipo sanguíneo: A+
+
+Informações sobre a saúde:
+Histórico de doenças crônicas: Nenhuma
+Alergias conhecidas: Nenhuma
+Medicamentos em uso: Nenhum
+
+Informações sobre a vida sexual:
+Atividade sexual ativa: Sim
+Parceiro(a) atual: Sim
+
+Observações:
+- Paciente saudável, sem problemas significativos de saúde detectados até o momento.
+- Recomenda-se a prática de exercícios regulares e uma dieta balanceada para manter o bem-estar geral.

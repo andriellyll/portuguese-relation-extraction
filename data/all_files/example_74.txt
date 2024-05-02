@@ -1,0 +1,11 @@
+Exemplo de Registro Médico com informações solicitadas:
+
+Nome: João da Silva
+Data de Nascimento: 01/01/1980
+Origem Racial/Etnia: Afrodescendente
+Questões Genéticas: Não possui histórico familiar de doenças genéticas
+Biométricas: Altura - 1,80m, Peso - 80kg
+Informações sobre saúde: Sofre de hipertensão controlada com medicamento
+Informações sobre vida sexual: Diagnóstico de HPV em 2015, tratado com sucesso.
+
+Lembrando que essas informações são apenas fictícias e não correspondem a nenhuma pessoa real. O objetivo é apenas fornecer um exemplo de como esses dados podem estar presentes em um registro médico.

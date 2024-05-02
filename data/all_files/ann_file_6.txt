@@ -1,0 +1,25 @@
+Registro Médico
+
+Nome: João Silva
+Data de Nascimento: 10/05/1985
+Gênero: Masculino
+Origem Racial ou Étnica: Pardo
+Estado Civil: Solteiro
+Profissão: Engenheiro
+
+Informações Médicas:
+- Tipo Sanguíneo: O positivo
+- Alergias: Nenhuma
+- Histórico Familiar: Nenhum histórico relevante de doenças genéticas na família
+- Doenças Preexistentes: Nenhuma
+- Cirurgias Anteriores: Nenhuma
+- Medicamentos em Uso: Nenhum
+- Vacinação: Todas as vacinas atualizadas até a última consulta
+
+Informações sobre a Saúde Sexual:
+- Atividade Sexual: Ativo
+- Uso de Preservativos: Sim
+- Doenças Sexualmente Transmissíveis: Nenhuma
+
+Observações:
+O paciente encontra-se em bom estado geral de saúde, sem queixas relevantes no momento. Todos os exames clínicos realizados estão dentro dos parâmetros normais. O pré-natal da parceira foi conduzido de forma adequada, sem intercorrências.

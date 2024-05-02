@@ -1,0 +1,24 @@
+Exemplo de Registro Médico em formato de texto corrido:
+"Nome do paciente: João Silva
+Data de nascimento: 15/05/1978
+Informações sobre origem racial ou étnica: Branco
+Questões genéticas: Não há histórico de doenças genéticas na família.
+Informações biométricas: Altura: 1,75m, Peso: 75kg, Tipo sanguíneo: O positivo
+Informações sobre a saúde: Paciente apresenta histórico de pressão alta e diabetes tipo 2. Está sob medicação para controle dessas condições.
+Informações sobre a vida sexual: Não houve relato de doenças sexualmente transmissíveis ou problemas de saúde neste aspecto."
+
+Exemplo de Registro Médico em formato de formulário:
+Nome do paciente: João Silva
+Data de nascimento: 15/05/1978
+Origem racial ou étnica: Branco
+Questões genéticas: Não há histórico de doenças genéticas na família.
+Informações biométricas:
+- Altura: 1,75m
+- Peso: 75kg
+- Tipo sanguíneo: O positivo
+Informações sobre a saúde: 
+- Histórico de pressão alta
+- Histórico de diabetes tipo 2
+- Medicação atual: XXXX
+Informações sobre a vida sexual: 
+- Não há relato de doenças sexualmente transmissíveis ou problemas de saúde neste aspecto.

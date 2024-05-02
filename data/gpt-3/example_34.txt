@@ -1,0 +1,16 @@
+Exemplo de registro médico em formato de texto corrido:
+
+Nome: João da Silva
+Data de nascimento: 01/01/1980
+
+Informações sobre origem racial ou étnica: Não se aplica.
+
+Informações sobre questões genéticas: Não há nenhum histórico de doenças genéticas na família.
+
+Informações biométricas: Altura: 1.80 metros, Peso: 80 kg, Tipo sanguíneo: A+
+
+Informações sobre a saúde: O paciente possui histórico de pressão arterial elevada e é alérgico a penicilina.
+
+Informações sobre a vida sexual: O paciente é sexualmente ativo e não possui nenhum histórico de doenças sexualmente transmissíveis.
+
+O exemplo acima é fictício e utiliza dados sintéticos para ilustrar o registro médico. É importante ressaltar que informações sensíveis e pessoais como essas devem ser tratadas com cuidado e privacidade, seguindo as leis de proteção de dados em vigor.

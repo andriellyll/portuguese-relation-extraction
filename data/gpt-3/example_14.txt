@@ -1,0 +1,31 @@
+Registro Médico
+
+Nome: João da Silva
+
+Data de nascimento: 10/05/1985
+
+Origem racial ou étnica: Pardo
+
+Questões genéticas: Nenhuma informação disponível
+
+Biométricas: Altura - 1,75m
+               Peso - 75kg
+               Tipo sanguíneo - A+
+
+Informações sobre saúde:
+
+- Alergias conhecidas: Nenhuma
+- Histórico de doenças: Asma diagnosticada aos 15 anos, controlada com medicamentos.
+- Cirurgias realizadas: Apendicectomia em 2006, recuperado sem complicações.
+- Doenças crônicas: Nenhuma
+- Medicamentos em uso contínuo: Nenhum
+- Vacinação: Completamente atualizada
+
+Informações sobre vida sexual:
+
+- Atividade sexual: Ativo
+- Uso de contraceptivos: Uso regular de preservativo
+- Parceiro(a) sexual fixo(a): Não possui parceiro(a) fixo(a)
+- Histórico de doenças sexualmente transmissíveis: Nenhuma
+
+Observações adicionais: O paciente é saudável e não possui histórico relevante de saúde ou vida sexual.

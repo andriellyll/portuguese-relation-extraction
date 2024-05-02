@@ -1,0 +1,20 @@
+Exemplo de Registro Médico:
+
+Nome: João da Silva
+Data de Nascimento: 01/01/1990
+Origem Racial ou Étnica: Branco
+Gênero: Masculino
+Tipo Sanguíneo: AB+
+Altura: 1,80m
+Peso: 80kg
+Histórico Familiar de Doenças Genéticas: Não há histórico conhecido
+Alergias: Nenhuma
+Histórico de Doenças: Gripe comum em 2018, apendicectomia em 2015
+Último Exame de Sangue: 01/03/2022
+Resultado do Exame de Sangue: Dentro dos parâmetros normais (Hemograma completo, perfil lipídico, glicemia, função renal e hepática, entre outros)
+Histórico de Doenças Sexuais: Nenhum
+Anticoncepcionais Utilizados: Não se aplica
+Vacinação em dia: Sim
+Observações: O paciente relata sentir dor lombar ocasional após longos períodos de pé. Não há histórico de doenças crônicas conhecidas. Atualmente, segue uma dieta equilibrada e pratica exercícios físicos regularmente.
+
+Este é apenas um exemplo fictício e sintético de um Registro Médico, que ilustra informações como origem racial/étnica, questões genéticas, biométricas e sobre a saúde ou a vida sexual de uma pessoa. É importante ressaltar que as informações contidas em registros médicos são confidenciais e protegidas por lei.

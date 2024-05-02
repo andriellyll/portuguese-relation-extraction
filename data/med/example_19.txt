@@ -1,0 +1,1 @@
+Registro Médico: {"id": "123456789", "nome": "João Silva", "origem_racial": "afrodescendente", "questoes_geneticas": "nenhuma", "biometria": "impressão digital", "saude_sexual": "negativo para doenças sexualmente transmissíveis"}

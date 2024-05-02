@@ -1,0 +1,26 @@
+TEXTO EXEMPLO:
+Registro Médico
+
+Nome: Joana Mendes
+Data de Nascimento: 15/07/1985
+Sexo: Feminino
+Origem Racial ou Étnica: Afrodescendente
+Grupo Sanguíneo: O+
+Histórico Familiar de Doenças: Não informado
+Questões Genéticas: Não informado
+Alergias Conhecidas: Nenhuma
+Doenças Crônicas: Não informado
+Medicamentos em Uso: Nenhum
+Informações Biométricas:
+- Altura: 1,63 m
+- Peso: 70 kg
+- Pressão Arterial: 120/80 mmHg
+- Frequência Cardíaca: 75 bpm
+Histórico de Saúde:
+- Último exame de sangue: 02/03/2022 - Resultados dentro da normalidade
+- Último exame ginecológico: 10/01/2022 - Resultados normais
+- Último exame de urina: 05/02/2022 - Resultados normais
+Vida Sexual:
+- Ativa
+- Último teste para doenças sexualmente transmissíveis: 20/12/2021 - Resultados negativos
+Observações: Joana Mendes apresenta boa saúde geral, sem histórico significativo de doenças. Mantém uma alimentação equilibrada e pratica atividades físicas regularmente. Recomenda-se acompanhamento médico de rotina para monitorar sua saúde.

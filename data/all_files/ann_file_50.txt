@@ -1,0 +1,14 @@
+Exemplo de Registro Médico utilizando dados sintéticos:
+
+- Nome: Maria Silva
+- Gênero: Feminino
+- Data de nascimento: 01/01/1980
+- Origem racial ou étnica: Latina
+- Questões genéticas: Não apresenta histórico de doenças genéticas na família.
+- Biométricas: Altura - 1,65m, Peso - 68kg, Tipo sanguíneo - O+
+- Saúde: Relatos de doenças respiratórias frequentes nos últimos anos.
+- Vida sexual: Ativa, utiliza contraceptivos orais.
+
+Observações: Maria Silva é uma paciente que busca atendimento médico regularmente devido a problemas respiratórios. Apresenta histórico familiar saudável em relação a doenças genéticas. Realiza acompanhamento ginecológico.
+
+Lembrando que essas informações são fictícias e foram criadas com o objetivo de exemplificar o uso de dados sintéticos em um Registro Médico.

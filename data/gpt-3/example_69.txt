@@ -1,0 +1,19 @@
+Um exemplo de Registro Médico pode ser um formulário contendo informações pessoais e médicas. Por exemplo:
+
+- Nome: João da Silva
+- Data de Nascimento: 01/01/1990
+- Gênero: Masculino
+- Origem Racial ou Étnica: Caucasiano
+- Questões Genéticas: Não há histórico familiar de doenças genéticas conhecidas
+- Biométricas: Altura: 1,80m / Peso: 75kg
+- Informações sobre a Saúde: 
+  - Alergias: Nenhuma alergia conhecida
+  - Condição Médica: Hipertensão controlada com medicamentos
+  - Cirurgias: Apendicectomia em 2015
+  - Medicamentos em uso: Losartana para controle da pressão arterial
+  - Vacinação: Última dose de vacina contra gripe em 2020
+- Informações sobre a Vida Sexual: 
+  - Parceiros Sexuais: Monogâmico com uma parceira
+  - Métodos contraceptivos: Utiliza preservativo regularmente para prevenção de ISTs
+
+Este exemplo ilustra um Registro Médico fictício que inclui informações origem racial ou étnica (caucasiano), questões genéticas (não há histórico familiar de doenças genéticas conhecidas), biométricas (altura e peso), e informações sobre a saúde e vida sexual de uma pessoa. É importante ressaltar que essas informações são fictícias e criadas apenas para fins de exemplo.

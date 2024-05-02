@@ -1,0 +1,24 @@
+Exemplo de Registro Médico:
+
+Nome: Joana Silva
+Sexo: Feminino
+Data de Nascimento: 10/02/1985
+Origem Racial ou Étnica: Latino-americana
+Questões Genéticas:
+- Histórico familiar de doenças cardíacas
+- Portadora do gene BRCA1
+Biométricas:
+- Altura: 1,65m
+- Peso: 65kg
+- Índice de Massa Corporal (IMC): 23.9 (Peso normal)
+- Pressão arterial: 120/80 mmHg
+Informações sobre a Saúde:
+- Alergias: Nenhuma conhecida
+- Doenças pré-existentes: Asma
+- Cirurgias realizadas: Apendicectomia (2010)
+- Medicações em uso: Anticoncepcional oral
+Informações sobre a Vida Sexual:
+- Ativa, utilizando contraceptivos de barreira e anticoncepcional oral
+Outras observações:
+- Tabagista ocasional (2-3 cigarros por semana)
+- Pratica exercícios físicos regularmente (3 vezes por semana)

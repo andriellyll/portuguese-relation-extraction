@@ -1,0 +1,9 @@
+T1	ETHNICITY 56 72	Latino-americano
+T2	MEDICAL_INFO 119 139	doenças hereditárias
+T3	BIOMETRIC 167 180	Altura: 1,75m
+T4	BIOMETRIC 182 192	Peso: 70kg
+T5	BIOMETRIC 194 222	Pressão arterial: 120/80mmHg
+T6	MEDICAL_INFO 264 280	fratura no braço
+T7	MEDICAL_INFO 318 326	alergias
+T8	SEXUAL_INFO 419 436	Sexualmente ativo
+T9	SEXUAL_INFO 449 463	contraceptivos

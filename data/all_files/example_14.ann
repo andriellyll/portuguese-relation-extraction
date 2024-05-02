@@ -1,0 +1,9 @@
+T1	PERSON 24 37	João da Silva
+T2	ETHNICITY 63 73	Caucasiano
+R1	ETHNICITY Arg1:T1 Arg2:T2	
+T3	MEDICAL_INFO 123 140	doenças genéticas
+R2	MEDICAL_INFO Arg1:T1 Arg2:T3	
+T4	BIOMETRIC 154 193	Frequência cardíaca em repouso - 70 bpm
+T5	BIOMETRIC 195 225	pressão arterial - 120/80 mmHg
+R3	BIOMETRIC Arg1:T1 Arg2:T4	
+R4	BIOMETRIC Arg1:T1 Arg2:T5	

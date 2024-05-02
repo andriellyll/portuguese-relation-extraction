@@ -1,0 +1,9 @@
+T1	ETHNICITY 55 70	Afrodescendente
+T2	MEDICAL_INFO 113 130	doenças genéticas
+T3	BIOMETRIC 157 170	Altura: 1,75m
+T4	BIOMETRIC 172 182	Peso: 70kg
+T5	BIOMETRIC 184 202	Tipo sanguíneo: A+
+T6	MEDICAL_INFO 225 233	alergias
+T7	SEXUAL_INFO 283 296	preservativos
+T8	SEXUAL_INFO 328 362	doenças sexualmente transmissíveis
+T9	SEXUAL_INFO 255 273	Vida sexual: Ativa

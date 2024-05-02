@@ -1,0 +1,12 @@
+Exemplo de Registro Médico:
+
+Nome do Paciente: Maria Silva
+Data de Nascimento: 01/01/1985
+Gênero: Feminino
+Origem Racial ou Étnica: Latina
+Histórico Familiar: Não há histórico familiar de doenças genéticas conhecidas.
+Histórico Biométrico: Altura: 1,65m | Peso: 70kg | Índice de Massa Corporal (IMC): 25,7 (sobrepeso)
+Histórico de Saúde: Maria possui histórico de pressão alta, colesterol elevado e diabetes tipo 2. Ela faz uso regular de medicação para controlar essas condições. Além disso, não há outros problemas de saúde significativos.
+Histórico Sexual: Maria é sexualmente ativa e não apresenta nenhum problema ou preocupação relacionados à saúde sexual.
+
+Observação: Os dados fornecidos são sintéticos e não representam informações reais de pacientes.

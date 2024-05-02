@@ -1,0 +1,18 @@
+Exemplo de Registro Médico com informações biométricas sintéticas:
+
+Nome do paciente: João Silva
+Idade: 35 anos
+Origem racial ou étnica: Brasileiro
+Questões genéticas: Nenhuma informação registrada
+Biométricas: 
+ - Altura: 1,75 metros
+ - Peso: 70 kg
+ - Pressão arterial: Normal
+ - Frequência cardíaca: 75 bpm
+Informações sobre a saúde: 
+ - Alergias: Nenhuma informação registrada
+ - Doenças crônicas: Nenhuma informação registrada
+ - Histórico de cirurgias: Nenhuma informação registrada
+Informações sobre a vida sexual: 
+ - Atividade sexual: Frequência moderada
+ - Uso de contraceptivos: Nenhuma informação registrada

@@ -1,0 +1,10 @@
+Exemplo de Registro Médico:
+
+Nome do paciente: João da Silva
+Data de nascimento: 01/01/1990
+Sexo: Masculino
+Origem racial ou étnica: Branco
+Questões genéticas: Não há histórico genético relevante.
+Biométricas: Altura - 1,80m / Peso - 75kg / Tipo sanguíneo - O+
+Informações sobre a saúde: O paciente possui histórico de hipertensão, sendo atualmente controlada com medicamentos. Não há outras condições de saúde relevantes.
+Informações sobre a vida sexual: O paciente não relatou problemas ou sintomas relacionados à vida sexual. Não há informações adicionais sobre esse assunto.

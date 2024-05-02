@@ -1,0 +1,27 @@
+Exemplo de Registro Médico em formato de texto corrido:
+
+Paciente: [Nome do Paciente]
+Data de Nascimento: [Data de Nascimento do Paciente]
+Sexo: [Sexo do Paciente]
+
+Informações de Origem Racial ou Étnica:
+O paciente autodeclarou a sua origem como [Origem Racial ou Étnica].
+
+Informações Genéticas:
+Não há informações genéticas disponíveis para este paciente.
+
+Informações Biométricas:
+Altura: [Altura do Paciente]
+Peso: [Peso do Paciente]
+Tipo Sanguíneo: [Tipo Sanguíneo do Paciente]
+
+Informações sobre a Saúde:
+O paciente possui histórico de diabetes tipo 2 na família.
+
+Informações sobre a Vida Sexual:
+Não há informações sobre a vida sexual do paciente.
+
+Observações:
+[Nesta seção, detalhes adicionais podem ser incluídos, como histórico médico, medicamentos prescritos, resultados de exames, entre outros.]
+
+Este é apenas um exemplo fictício e os dados foram criados para fins ilustrativos. O objetivo é demonstrar como podem ser apresentadas informações sensíveis em um Registro Médico.

@@ -1,0 +1,227 @@
+```json
+{
+  "documentName": "example_26.txt",
+  "document": "Registro Médico Sintético: \n\nNome do Paciente: Maria Oliveira\nSexo: Feminino\nData de Nascimento: 22/07/1990\nOrigem Racial ou Étnica: Branca\nQuestões Genéticas: Portadora de gene BRCA1\nBiométricas: Altura - 1,65m; Peso - 60kg; Tipo Sanguíneo - A-\nInformações sobre a saúde:\n  - Alergias: Penicilina\n  - Doenças Crônicas: Hipertensão controlada\n  - Histórico de consultas médicas: Exame de mamografia anual devido ao risco genético\nInformações sobre a vida sexual: Bissexual ativa, sem histórico de DSTs, realiza exames regulares\n\nPor favor, observe que esses dados são fictícios e foram gerados sinteticamente para este exemplo.",
+  "tokens": [
+    {
+      "text": "Maria Oliveira",
+      "start": 40,
+      "end": 54,
+      "token_start": 9,
+      "token_end": 10,
+      "entityLabel": "PERSON",
+      "propertiesList": [],
+      "commentsList": []
+    },
+    {
+      "text": "22/07/1990",
+      "start": 91,
+      "end": 101,
+      "token_start": 20,
+      "token_end": 20,
+      "entityLabel": "DATE",
+      "propertiesList": [],
+      "commentsList": []
+    },
+    {
+      "text": "Feminino",
+      "start": 61,
+      "end": 69,
+      "token_start": 14,
+      "token_end": 14,
+      "entityLabel": "GENDER",
+      "propertiesList": [],
+      "commentsList": []
+    },
+    {
+      "text": "Branca",
+      "start": 127,
+      "end": 133,
+      "token_start": 27,
+      "token_end": 27,
+      "entityLabel": "ETHNICITY",
+      "propertiesList": [],
+      "commentsList": []
+    },
+    {
+      "text": "BRCA1",
+      "start": 175,
+      "end": 180,
+      "token_start": 35,
+      "token_end": 35,
+      "entityLabel": "GENETIC",
+      "propertiesList": [],
+      "commentsList": []
+    },
+    {
+      "text": "Altura - 1,65m",
+      "start": 194,
+      "end": 208,
+      "token_start": 38,
+      "token_end": 41,
+      "entityLabel": "BIOMETRIC",
+      "propertiesList": [],
+      "commentsList": []
+    },
+    {
+      "text": "Peso - 60kg",
+      "start": 210,
+      "end": 221,
+      "token_start": 43,
+      "token_end": 46,
+      "entityLabel": "BIOMETRIC",
+      "propertiesList": [],
+      "commentsList": []
+    },
+    {
+      "text": "Tipo Sanguíneo - A-",
+      "start": 223,
+      "end": 243,
+      "token_start": 48,
+      "token_end": 51,
+      "entityLabel": "BIOMETRIC",
+      "propertiesList": [],
+      "commentsList": []
+    },
+    {
+      "text": "Alergias: Penicilina",
+      "start": 277,
+      "end": 297,
+      "token_start": 61,
+      "token_end": 62,
+      "entityLabel": "DISEASE",
+      "propertiesList": [],
+      "commentsList": []
+    },
+    {
+      "text": "Hipertensão controlada",
+      "start": 312,
+      "end": 333,
+      "token_start": 68,
+      "token_end": 69,
+      "entityLabel": "DISEASE",
+      "propertiesList": [],
+      "commentsList": []
+    },
+    {
+      "text": "mamografia",
+      "start": 379,
+      "end": 390,
+      "token_start": 80,
+      "token_end": 80,
+      "entityLabel": "MEDICAL_TEST",
+      "propertiesList": [],
+      "commentsList": []
+    },
+    {
+      "text": "Bissexual ativa",
+      "start": 443,
+      "end": 458,
+      "token_start": 94,
+      "token_end": 95,
+      "entityLabel": "SEXUAL_INFORMATION",
+      "propertiesList": [],
+      "commentsList": []
+    },
+    {
+      "text": "DSTs",
+      "start": 486,
+      "end": 490,
+      "token_start": 102,
+      "token_end": 102,
+      "entityLabel": "DISEASE",
+      "propertiesList": [],
+      "commentsList": []
+    },
+    {
+      "text": "exames regulares",
+      "start": 492,
+      "end": 508,
+      "token_start": 104,
+      "token_end": 105,
+      "entityLabel": "MEDICAL_TEST",
+      "propertiesList": [],
+      "commentsList": []
+    }
+  ],
+  "relations": [
+    {
+      "child": 20,
+      "head": 9,
+      "relationLabel": "BIRTHDAY_DATE",
+      "propertiesList": [],
+      "commentsList": []
+    },
+    {
+      "child": 14,
+      "head": 9,
+      "relationLabel": "GENDER",
+      "propertiesList": [],
+      "commentsList": []
+    },
+    {
+      "child": 9,
+      "head": 27,
+      "relationLabel": "ETHNICITY",
+      "propertiesList": [],
+      "commentsList": []
+    },
+    {
+      "child": 38,
+      "head": 9,
+      "relationLabel": "BIOMETRIC",
+      "propertiesList": [],
+      "commentsList": []
+    },
+    {
+      "child": 43,
+      "head": 9,
+      "relationLabel": "BIOMETRIC",
+      "propertiesList": [],
+      "commentsList": []
+    },
+    {
+      "child": 48,
+      "head": 9,
+      "relationLabel": "BIOMETRIC",
+      "propertiesList": [],
+      "commentsList": []
+    },
+    {
+      "child": 61,
+      "head": 9,
+      "relationLabel": "DISEASE",
+      "propertiesList": [],
+      "commentsList": []
+    },
+    {
+      "child": 68,
+      "head": 9,
+      "relationLabel": "DISEASE",
+      "propertiesList": [],
+      "commentsList": []
+    },
+    {
+      "child": 94,
+      "head": 9,
+      "relationLabel": "SEXUAL_INFORMATION",
+      "propertiesList": [],
+      "commentsList": []
+    },
+    {
+      "child": 102,
+      "head": 9,
+      "relationLabel": "DISEASE",
+      "propertiesList": [],
+      "commentsList": []
+    },
+    {
+      "child": 9,
+      "head": 104,
+      "relationLabel": "MEDICAL_TEST",
+      "propertiesList": [],
+      "commentsList": []
+    }
+  ]
+}
+```

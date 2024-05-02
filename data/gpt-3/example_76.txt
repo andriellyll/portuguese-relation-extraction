@@ -1,0 +1,19 @@
+Exemplo de Registro Médico:
+
+Nome do Paciente: João da Silva
+Data de Nascimento: 01/01/1980
+Sexo: Masculino
+Origem racial ou étnica: Branco
+Questões genéticas: Nenhuma informação
+Biométricas: Nenhuma informação
+Histórico de Saúde: 
+- Diabetes Tipo 2 controlada com medicação
+- Hipertensão arterial tratada com medicamentos
+- Histórico familiar de doenças cardíacas
+- Alergia a penicilina
+
+Informações sobre a vida sexual:
+- Ativo sexualmente
+- Uso regular de contraceptivos de barreira
+
+Observações adicionais: O paciente comparece regularmente às consultas médicas de rotina, realiza exames preventivos anuais, e segue as orientações médicas para o controle das condições crônicas.

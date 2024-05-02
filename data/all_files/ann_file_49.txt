@@ -1,0 +1,19 @@
+Exemplo de Registro Médico com informações sensíveis:
+
+Nome: Maria Silva
+Data de Nascimento: 15/02/1985
+Sexo: Feminino
+Origem Racial/Etnia: Latina
+Questões Genéticas: Nenhuma história genética relevante.
+Biométrica: Altura - 165 cm / Peso - 60 kg
+Informações de Saúde: 
+- Doenças crônicas: Diabetes tipo 2, asma.
+- Alergias: Nenhuma alergia conhecida.
+- Operações: Cirurgia de apendicite em 2010.
+- Medicamentos regulares: Metformina para controle da diabetes.
+Histórico Sexual: Ativa sexualmente, utiliza contraceptivos orais.
+
+Observações adicionais:
+A paciente relata ter um histórico familiar de doenças cardíacas, mas não possui nenhum sintoma ou diagnóstico relacionado a esse tema até o momento. Além disso, a paciente foi informada sobre os riscos e benefícios associados à sua condição de saúde, bem como a importância de seguir um estilo de vida saudável e se submeter a exames regulares para monitorar as mesmas. A paciente está ciente de suas opções contraceptivas e faz uso regular de contraceptivos orais.
+
+Este exemplo de Registro Médico fictício contém informações sensíveis sobre a origem racial/étnica da pessoa, questões genéticas, biométricas e sobre sua saúde e vida sexual. É importante lembrar que as informações aqui fornecidas são sintéticas e não correspondem a nenhum paciente real.

@@ -1,0 +1,6 @@
+Exemplo de Registro Médico:
+- Origem racial ou étnica: Afrodescendente
+- Questões genéticas: Não há histórico de doenças genéticas na família
+- Biométricas: Altura: 1,75m, Peso: 70kg, Tipo sanguíneo: A+
+- Saúde: Histórico de alergias a amendoim e gatos
+- Vida sexual: Ativa, utiliza preservativos regularmente para prevenção de doenças sexualmente transmissíveis.

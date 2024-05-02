@@ -1,0 +1,12 @@
+Exemplo de Registro Médico contendo informações solicitadas:
+
+Paciente: [Nome do paciente]
+Data de nascimento: [Data de Nascimento do paciente]
+Gênero: [Gênero do paciente]
+Origem racial ou étnica: [Origem racial ou étnica do paciente]
+Questões genéticas: [Informações sobre questões genéticas específicas do paciente, por exemplo, histórico familiar de doenças genéticas como diabetes tipo 2]
+Informações biométricas: [Informações biométricas como altura, peso, pressão arterial, índice de massa corporal (IMC), entre outros]
+Histórico de saúde: [Informações sobre os problemas de saúde anteriores do paciente, por exemplo, histórico de câncer, doenças cardíacas, hipertensão, etc.]
+Informações sobre vida sexual: [Informações sobre a vida sexual, como histórico de doenças sexualmente transmissíveis (DSTs), uso de contraceptivos, exames de rotina, entre outros]
+
+É importante ressaltar que esses exemplos são fictícios e os dados sintéticos foram utilizados para garantir a privacidade e confidencialidade das informações reais do paciente.

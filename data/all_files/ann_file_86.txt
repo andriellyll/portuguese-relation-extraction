@@ -1,0 +1,12 @@
+Exemplo de Registro Médico:
+
+Nome: Maria Silva
+Data de Nascimento: 01/01/1990
+Sexo: Feminino
+Origem Racial ou Étnica: Afrodescendente
+Questões Genéticas: Não há histórico relevante na família.
+Biométricas: Altura - 1,65m / Peso - 60kg / Tipo Sanguíneo: O+
+Saúde: Paciente apresenta histórico de alergia a amendoim.
+Vida Sexual: Ativa. Uso de contraceptivo oral combinado há 2 anos.
+
+Observações: A paciente realizou exames ginecológicos de rotina, os resultados mostraram-se dentro dos padrões normais. Aconselhada sobre a importância do uso do preservativo como forma de prevenção de doenças sexualmente transmissíveis. Realizada vacinação atualizada conforme calendário nacional.

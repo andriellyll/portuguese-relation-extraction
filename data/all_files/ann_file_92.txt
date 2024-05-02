@@ -1,0 +1,41 @@
+Texto exemplo:
+
+Registro Médico
+
+Nome: Maria Silva
+Data de Nascimento: 10/05/1985
+Sexo: Feminino
+Endereço: Rua das Flores, 123, São Paulo - SP
+Telefone: (11) 98765-4321
+E-mail: mariasilva@email.com
+
+Origem Racial ou Étnica:
+- Branca
+
+Questões Genéticas:
+- Não há registros de doenças genéticas na família.
+
+Biométricas: 
+- Altura: 1.65m
+- Peso: 65kg
+- Tipo sanguíneo: A+
+- Pressão arterial: 120/80 mmHg
+- Frequência cardíaca: 70 bpm
+
+Informações sobre Saúde:
+- Alergias: Nenhuma
+- Doenças pré-existentes: Nenhuma
+- Medicações em uso: Nenhuma
+- Cirurgias anteriores: Nenhuma
+
+Informações sobre a Vida Sexual:
+- Ativa
+- Parceiro(a) sexual fixo(a)
+- Último exame de DST: Realizado em 05/03/2022, resultados negativos para todas as doenças.
+
+Observações:
+- A paciente compareceu à consulta de rotina e não apresenta queixas específicas neste momento. O histórico médico apresentado até o momento é considerado saudável. Foi orientada quanto ao uso de preservativos durante as relações sexuais e sobre a importância de realizar exames de DST periodicamente.
+
+Assinatura do Médico: Dr. João Santos
+CRM: 12345678-9
+Data: 15/03/2022

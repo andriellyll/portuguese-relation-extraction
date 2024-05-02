@@ -1,0 +1,21 @@
+Exemplo de Registro Médico:
+
+Nome do paciente: João da Silva
+
+Informações origem racial ou étnica: Não se aplica
+
+Questões genéticas: Não se identificaram até o momento quaisquer questões genéticas relevantes no histórico familiar ou genótipo do paciente.
+
+Informações biométricas:
+- Altura: 1,75m
+- Peso: 70kg
+- Tipo sanguíneo: O positivo
+
+Informações sobre a saúde:
+- Doenças pré-existentes: Nenhuma informação relevante
+- Alergias: Nenhuma informação relevante
+- Medicamentos habituais: Nenhum
+
+Informações sobre a vida sexual: Não se aplica
+
+Observações adicionais: O paciente está em boas condições de saúde, sem queixas ou sintomas relevantes.

@@ -1,0 +1,28 @@
+Exemplo de Registro Médico em formato de texto corrido:
+
+Nome do paciente: João da Silva
+Data de nascimento: 15/05/1980
+Sexo: Masculino
+
+Informações sobre origem racial ou étnica:
+João da Silva não possui registro de origem racial ou étnica.
+
+Questões genéticas:
+Não há histórico familiar de doenças genéticas conhecidas.
+
+Informações biométricas:
+Altura: 1,75m
+Peso: 80kg
+Cor dos olhos: Castanhos
+Cor dos cabelos: Pretos
+
+Informações sobre saúde:
+- Histórico de asma na infância, mas atualmente está controlada.
+- Nenhuma cirurgia realizada até o momento.
+- Não apresenta alergias conhecidas.
+- Pratica exercícios físicos regularmente.
+
+Informações sobre a vida sexual:
+João da Silva é sexualmente ativo e utiliza preservativos regularmente para prevenção de doenças sexualmente transmissíveis. Não possui histórico de problemas relacionados à saúde sexual.
+
+Este registro médico é fictício e os dados apresentados são sintéticos, criados para fins ilustrativos.

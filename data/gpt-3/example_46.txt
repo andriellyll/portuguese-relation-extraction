@@ -1,0 +1,23 @@
+Exemplo de Registro Médico em formato de formulário:
+
+Nome do Paciente: João da Silva
+Data de Nascimento: 01/01/1980
+Gênero: Masculino
+
+Informações Origem Racial/Étnica: Afrodescendente
+Questões Genéticas: N/A
+Biométricas: Altura: 1,80m; Peso: 70kg; Tipo sanguíneo: A+
+Informações sobre a Saúde: 
+- Doenças pré-existentes: N/A
+- Alergias: N/A
+- Medicações em uso: N/A
+- Histórico de Cirurgias: N/A
+
+Informações sobre a Vida Sexual:
+- Orientação sexual: Heterossexual
+- Atividade sexual: Ativa
+- Histórico de doenças sexualmente transmissíveis: N/A
+- Métodos contraceptivos em uso: N/A
+- Desejo de filhos/fertilidade: Desejo de ter filhos no futuro
+
+Observações adicionais: O paciente não possui registros relevantes relacionados a suas origens raciais ou étnicas, questões genéticas, biométricas ou informações sobre a saúde e vida sexual.

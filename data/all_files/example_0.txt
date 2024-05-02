@@ -1,0 +1,24 @@
+Exemplo de Registro Médico com informações sensíveis:
+
+{
+  "nome": "Maria Silva",
+  "data_nascimento": "1980-01-01",
+  "origem_racial_etnica": "Afrodescendente",
+  "questoes_geneticas": {
+    "historico_familiar": "Câncer de mama",
+    "teste_genetico_realizado": true,
+    "resultado_teste_genetico": "Ausência de mutações BRCA1 e BRCA2"
+  },
+  "biometria": {
+    "tipo_sanguineo": "A+",
+    "altura": 1.65,
+    "peso": 70
+  },
+  "saude_sexual": {
+    "reproducao": {
+      "gravidez_anterior": true,
+      "abortos": 0
+    },
+    "doencas_sexualmente_transmissiveis": ["HIV"]
+  }
+}

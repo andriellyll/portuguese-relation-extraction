@@ -1,0 +1,23 @@
+Exemplo de Registro Médico:
+
+Nome: João Silva
+Data de Nascimento: 15/06/1985
+Gênero: Masculino
+Origem Racial ou Étnica: Pardo
+Questões Genéticas: Não possui histórico genético relevante
+Biométricas: Altura: 1,75m, Peso: 75kg, Tipo Sanguíneo: O+
+Informações sobre a Saúde: 
+- Doenças Crônicas: Nenhuma
+- Alergias: Não possui
+- Medicamentos de uso contínuo: Nenhum
+- Cirurgias prévias: Apendicectomia em 2004
+- Vacinação em dia: Sim
+- Histórico de internações: Nenhuma
+Informações sobre a Vida Sexual: 
+- Ativo sexualmente: Sim
+- Uso de contraceptivos: Preservativo
+- Histórico de doenças sexualmente transmissíveis: Nenhuma
+
+Observações adicionais: O paciente relata sentir dores lombares recorrentes nos últimos meses. Recomendado realizar exame de raio-x para análise mais detalhada.
+
+Notas: Todos os dados apresentados acima são fictícios e foram criados apenas para fins de exemplo.

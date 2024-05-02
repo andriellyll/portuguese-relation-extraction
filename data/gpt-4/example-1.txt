@@ -1,0 +1,26 @@
+Nome do Paciente: João Silva Santos  
+Idade: 34 anos  
+Sexo: Masculino  
+Endereço: Alameda das Rosas, 123, São Paulo, SP  
+Telefone: (11) 98765-4321  
+Data de Nascimento: 12/05/1988  
+Origem Racial/Etnia: Afro-Brasileiro  
+Histórico Familiar de Doenças Genéticas: Mãe com histórico de Doença de Huntington.  
+Dados Biométricos: Impressões digitais armazenadas para identificação no prontuário eletrônico.  
+Tipo Sanguíneo: A+  
+Histórico Médico:  
+- Alergia a penicilina;  
+- Cirurgia de apendicectomia aos 20 anos;  
+- Hipertensão controlada com medicamento Lisinopril 10mg diariamente.  
+História de Saúde Sexual:  
+- HIV positivo, em tratamento antirretroviral desde 2015.  
+- Hepatite B (curada) em 2012.  
+Medicações Atuais:  
+- Lisinopril 10mg, 1x ao dia para hipertensão;  
+- Tenofovir/Emtricitabina 300/200 mg, 1x ao dia para HIV.  
+Observações:  
+- O paciente relata aderência ao tratamento antirretroviral, com carga viral indetectável nos últimos exames. Mantém acompanhamento regular com infectologista.  
+- Consultas semestrais para monitoramento da pressão arterial e revisão da medicação para hipertensão.  
+- Recomendado início de acompanhamento genético devido ao histórico familiar de Doença de Huntington.  
+Data da Última Atualização: 20/04/2023  
+Responsável pelo Registro: Dr. Lívia M. Cardoso, CRM 65432-SP  

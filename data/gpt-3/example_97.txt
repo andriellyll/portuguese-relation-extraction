@@ -1,0 +1,26 @@
+Exemplo de Registro Médico com informações sobre origem racial ou étnica, questões genéticas, biométricas e a saúde ou vida sexual de uma pessoa:
+
+Nome: Maria Silva
+Data de Nascimento: 15/05/1980
+Sexo: Feminino
+Origem Racial ou Étnica: Afrodescendente
+
+Histórico de Saúde:
+- Problemas cardíacos na família: Não
+- Histórico de câncer: Não
+- Doenças genéticas hereditárias: Não
+
+Exames Biométricos:
+- Altura: 1,65 m
+- Peso: 63 kg
+- Pressão arterial: 120/80 mmHg
+- Frequência cardíaca: 70 bpm
+- Nível de glicose no sangue: 85 mg/dL
+
+Informações sobre Vida Sexual:
+- Parceiro(a) Sexual Atual: João Santos
+- Último exame de DST realizado em: 01/08/2021
+- Resultado do exame de DST: Negativo
+
+Observações:
+Maria apresenta bom estado de saúde geral, sem histórico de doenças genéticas ou problemas de saúde relevantes. É importante continuar acompanhando de forma regular a pressão arterial e o nível de glicose no sangue. O próximo exame de DST está agendado para 01/02/2022.

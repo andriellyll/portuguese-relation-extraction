@@ -1,0 +1,24 @@
+Exemplo requerido:
+
+"Registro Médico Sintético:
+
+Nome do Paciente: Joana Silva
+Data de Nascimento: 01/01/1985
+Gênero: Feminino
+Origem Racial ou Étnica: Latino-americana
+Questões Genéticas:
+- Não possui histórico genético significativo relatado.
+Biométricas:
+- Altura: 1,65m
+- Peso: 65kg
+- Tipo Sanguíneo: A+
+Informações sobre a Saúde:
+- Antecedentes familiares de doenças cardiovasculares: Nenhum reportado.
+- Alergias conhecidas: Nenhuma reportada.
+- Histórico de doenças crônicas: Nenhum relatado.
+Informações sobre a Vida Sexual:
+- Ativa e sem queixas relacionadas à saúde sexual. Uso regular de contraceptivo oral.
+Outras observações: 
+- Realizou exames de rotina e apresentou resultados dentro dos parâmetros saudáveis."
+
+Neste exemplo, as informações de origem racial ou étnica (latino-americana), questões genéticas, biométricas (altura, peso, tipo sanguíneo), e informações sobre a saúde e a vida sexual da pessoa (antecedentes familiares, alergias, histórico crônico, vida sexual ativa e uso de contraceptivo oral) estão incluídas. Vale ressaltar que os dados são completamente sintéticos e não representam informações reais de um paciente.

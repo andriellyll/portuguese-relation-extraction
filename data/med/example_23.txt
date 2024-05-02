@@ -1,0 +1,14 @@
+Exemplo de Registro Médico com informações sobre saúde sexual:
+
+Nome: Maria Silva
+Data de nascimento: 01/06/1985
+Gênero: Feminino
+Endereço: Rua das Flores, 123, São Paulo, SP
+Telefone: (11) 1234-5678
+
+Registro Médico:
+
+- Origem racial ou étnica: Pardo
+- Questões genéticas: Não há histórico de doenças genéticas na família até o momento.
+- Biométricas: Altura: 1,65m | Peso: 60kg | Tipo sanguíneo: A+
+- Saúde sexual: Maria está em um relacionamento monogâmico há 3 anos e não apresenta queixas relacionadas à saúde sexual.

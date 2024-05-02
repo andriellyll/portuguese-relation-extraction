@@ -1,0 +1,32 @@
+Exemplo de Registro Médico com informações sensíveis:
+
+Registro Médico de Paciente
+
+Nome: John Doe
+Data de Nascimento: 01/01/1980
+Gênero: Masculino
+Origem Racial ou Étnica: Afro-americano
+Estado Civil: Solteiro
+Profissão: Engenheiro
+
+Informações Biométricas:
+- Altura: 1,80 metros
+- Peso: 80 kg
+- Tipo Sanguíneo: A positivo
+
+Histórico Médico:
+- Alergias: Nenhuma relatada até o momento
+- Doenças Crônicas: Diabetes tipo 2 diagnosticada em 2010
+- Cirurgias Anteriores: Apendicectomia em 2005
+- Vacinações: Todas as vacinas de rotina atualizadas
+
+Histórico Genético:
+- Antecedentes Familiares: Mãe diagnosticada com câncer de mama aos 55 anos
+- Testes Genéticos Realizados: Realizou o teste de predisposição genética ao câncer de mama em 2019, resultando negativo para mutações nos genes BRCA1 e BRCA2
+
+Histórico de Saúde Sexual:
+- Parceiro(a) Atual: Não possui parceiro(a) no momento
+- Atividade Sexual: Ativo
+- Uso de Preservativos: Utiliza preservativos em todas as relações sexuais
+
+Este é apenas um exemplo fictício de informações que podem compor um Registro Médico contendo dados sensíveis, como origem racial ou étnica, questões genéticas, biométricas e sobre a saúde ou a vida sexual de uma pessoa. É importante lembrar que o respeito à privacidade e a proteção dos dados pessoais são fundamentais para garantir a segurança e o bem-estar dos pacientes.

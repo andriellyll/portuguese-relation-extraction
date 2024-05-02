@@ -1,0 +1,6 @@
+Exemplo de Registro Médico:
+
+- Informações de origem racial ou étnica: Não aplicável.
+- Questões genéticas: O paciente possui uma predisposição genética para a doença de Alzheimer.
+- Informações biométricas: A pressão arterial do paciente está em um nível saudável de 120/80 mmHg.
+- Informações sobre a saúde ou a vida sexual: O paciente foi diagnosticado com diabetes tipo 2 e está iniciando um tratamento para controle da glicemia.

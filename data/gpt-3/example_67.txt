@@ -1,0 +1,28 @@
+Exemplo de Registro Médico:
+
+Nome do Paciente: Maria Silva
+Data de Nascimento: 15/05/1985
+Gênero: Feminino
+Origem Racial ou Étnica: Afro-descendente
+
+Informações de Saúde:
+1. Histórico Familiar:
+   - Mãe: Doença cardíaca, hipertensão arterial.
+   - Pai: Diabetes tipo 2.
+
+2. Resultados de Exames Biométricos:
+   - Altura: 1,65m
+   - Peso: 70kg
+   - Pressão arterial: 120/80 mmHg
+
+3. Anotações sobre Saúde Passada:
+   - Cirurgia de apendicite em 2005.
+   - Fratura no braço direito em 2010.
+
+4. Questões Genéticas:
+   - Histórico de câncer de mama na família materna.
+
+5. Informações sobre a Vida Sexual:
+   - Ativa, utilizando contraceptivos anticoncepcionais.
+
+Esse é apenas um exemplo de Registro Médico fictício, com dados sintéticos, que contém informações sobre a origem racial ou étnica da pessoa, questões genéticas, biométricas e sobre sua saúde ou vida sexual.

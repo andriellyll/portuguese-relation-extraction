@@ -1,0 +1,22 @@
+Registro Médico
+
+Nome: Maria Oliveira
+Sexo: Feminino
+Data de Nascimento: 01/01/1980
+Origem racial ou étnica: Afro-brasileira
+Questões Genéticas: Não possui histórico familiar de doenças genéticas
+Biométricas:
+- Altura: 1,65m
+- Peso: 70kg
+- Pressão arterial: 120/80 mmHg
+- Frequência cardíaca: 75 bpm
+Informações sobre saúde: 
+- Medicamentos em uso: Nenhum
+- Alergias: Nenhuma
+- Histórico de doenças crônicas: Hipertensão arterial controlada com medicação
+Informações sobre vida sexual:
+- Ativa sexualmente
+- Uso de método contraceptivo: Pílula anticoncepcional
+- Último exame de Papanicolau: 02/02/2022, sem alterações
+
+Este é um exemplo fictício de um registro médico que contém informações sobre a origem racial ou étnica da paciente, questões genéticas, biométricas e informações sobre sua saúde e vida sexual. É importante destacar que essas informações são sintéticas e não correspondem a dados reais de uma pessoa.

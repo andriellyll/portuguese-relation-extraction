@@ -1,0 +1,13 @@
+Exemplo: 
+
+Nome: Maria Silva
+Registro Médico: 123456789
+
+Informações:
+- Origem racial ou étnica: Branca
+- Questões genéticas: Não possui histórico de doenças genéticas na família.
+- Biométricas: Altura: 1,65 m; Peso: 60 kg; Tipo sanguíneo: O positivo.
+- Saúde: Diagnosticada com asma moderada.
+- Vida sexual: Ativa, utiliza contraceptivo oral.
+
+Esses dados são sintéticos e fictícios, criados apenas com a finalidade de exemplificar o conteúdo de um registro médico com informações sobre origem racial ou étnica, questões genéticas, biométricas e sobre a saúde ou vida sexual de uma pessoa.

@@ -1,0 +1,7 @@
+Registro Médico:
+
+Nome: João da Silva
+Origem Racial ou Étnica: Caucasiano
+Questões Genéticas: Não há histórico familiar de doenças genéticas
+Biométricas: Frequência cardíaca em repouso - 70 bpm, pressão arterial - 120/80 mmHg
+Saúde Sexual: Não apresenta queixas relacionadas à saúde sexual.

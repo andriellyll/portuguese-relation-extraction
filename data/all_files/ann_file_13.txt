@@ -1,0 +1,42 @@
+Registro Médico
+
+Nome: João da Silva
+Data de Nascimento: 01/01/1980
+Sexo: Masculino
+
+INFORMAÇÕES SOBRE ORIGEM RACIAL OU ÉTNICA:
+
+Raça/Etnia: Sintético-Humano
+
+INFORMAÇÕES GENÉTICAS:
+
+Tipo Sanguíneo: AB+
+Fator Rh: Positivo
+
+BIOMÉTRICAS:
+
+Altura: 1,75m
+Peso: 75kg
+IMC (Índice de Massa Corporal): 24.5
+
+INFORMAÇÕES SOBRE SAÚDE:
+
+Doenças Crônicas:
+- Diabetes tipo 2
+
+Medicamentos em uso:
+- Metformina (500mg, 2 vezes ao dia)
+- Estatina (20mg, 1 vez ao dia)
+
+Histórico de Cirurgias:
+- Cirurgia de apêndice em 2008
+
+INFORMAÇÕES SOBRE VIDA SEXUAL:
+
+Atividade Sexual:
+- Ativa, com parceiros(as) consensuais
+- Uso regular de preservativos
+
+Observações:
+
+João da Silva compareceu à consulta para acompanhamento do seu diabetes tipo 2 e para realizar uma avaliação geral da sua saúde. Ele é um paciente de origem racial sintético-humano e não possui histórico significativo de doenças ou cirurgias, exceto pela cirurgia de apêndice em 2008. João é ativo sexualmente e faz uso regular de preservativos para prevenção de doenças sexualmente transmissíveis.

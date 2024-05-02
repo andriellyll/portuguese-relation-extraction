@@ -1,0 +1,16 @@
+Exemplo de Registro Médico:
+
+Nome do Paciente: Maria Silva
+Idade: 35 anos
+Gênero: Feminino
+
+Dados pessoais:
+- Origem racial ou étnica: Branca
+- Questões genéticas: Não há histórico familiar de doenças genéticas
+- Biométricas: Altura: 1,65m / Peso: 65kg
+- Saúde: Maria possui histórico de asma desde a infância. Atualmente faz uso de medicação controlada e não apresenta sintomas frequentes.
+- Vida sexual: Maria é sexualmente ativa. Não utiliza métodos contraceptivos e não possui histórico de doenças sexualmente transmissíveis.
+
+Data de registro: 15/10/2022
+Médico responsável: Dra. Ana Santos, CRM: XXXXX
+Local: Hospital Santa Clara

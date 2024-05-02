@@ -1,0 +1,9 @@
+Registro Médico Sintético:
+
+Nome do Paciente: Maria Silva
+Data de Nascimento: 10/06/1985
+Origem Racial ou Étnica: Latina
+Questões Genéticas: Não apresenta histórico familiar de doenças genéticas hereditárias.
+Informações Biométricas: Altura - 1,65m; Peso - 60kg; Tipo sanguíneo - O negativo.
+Informações sobre a Saúde: Maria Silva possui histórico de asma leve, controlada com medicamentos.
+Informações sobre a Vida Sexual: Não possui histórico de doenças sexualmente transmissíveis.

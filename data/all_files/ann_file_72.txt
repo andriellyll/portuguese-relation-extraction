@@ -1,0 +1,24 @@
+Exemplo de Registro Médico com informações solicitadas:
+
+Nome do paciente: João da Silva
+Data de nascimento: 01/01/1980
+Sexo: Masculino
+
+Informações sobre origem racial ou étnica:
+- Origem racial/étnica: Latino-americano
+
+Informações sobre questões genéticas:
+- Histórico familiar de doenças genéticas: Não
+
+Informações biométricas:
+- Tipo sanguíneo: O positivo
+- Altura: 1,80m
+- Peso: 80kg
+
+Informações sobre a saúde ou vida sexual:
+- Diversidade sexual: Heterossexual
+- Queixa principal: Dores de cabeça frequentes
+- Histórico de doenças: Gripe comum, sinusite
+- Uso de medicamentos: Analgésicos para dores de cabeça
+
+Este é apenas um exemplo fictício de um Registro Médico que pode conter informações sobre origem racial ou étnica, questões genéticas, biométricas e sobre a saúde ou vida sexual de uma pessoa.

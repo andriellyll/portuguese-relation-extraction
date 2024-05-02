@@ -1,0 +1,9 @@
+Exemplo de Registro Médico:
+Paciente: João Silva
+Origem racial ou étnica: Branqueamento
+Questões genéticas: Risco aumentado de diabetes tipo 2
+Biométricas: Altura: 1,75m, Peso: 80kg
+Informações sobre saúde: Alergia grave a amendoim
+Informações sobre a vida sexual: Ativo, utiliza preservativo nas relações
+
+Importante ressaltar que esses dados são puramente fictícios e foram criados com o único propósito de exemplificar a solicitação feita.

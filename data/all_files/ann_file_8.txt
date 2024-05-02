@@ -1,0 +1,10 @@
+Exemplo de Registro Médico em formato de texto corrido:
+
+Nome: Ana Silva
+Data de Nascimento: 15/05/1980
+Gênero: Feminino
+Origem Racial ou Étnica: Afrodescendente
+Questões Genéticas: Não apresenta histórico genético significativo
+Biométricas: Altura - 1,68m, Peso - 65kg
+Informações de Saúde: Paciente possui histórico de hipertensão arterial e diabetes tipo 2.
+Vida Sexual: Paciente não relata problemas relacionados à vida sexual.

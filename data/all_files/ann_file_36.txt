@@ -1,0 +1,26 @@
+Exemplo de Registro Médico:
+
+Nome: João da Silva
+Data de Nascimento: 01/01/1980
+Gênero: Masculino
+Origem Racial ou Étnica: Afro-brasileiro
+Grupo Sanguíneo: AB+
+Fator RH: Positivo
+
+Histórico Médico:
+- Doenças Genéticas na Família: Não há histórico conhecido.
+- Doenças Crônicas: Nenhuma.
+- Alergias: Nenhuma relatada.
+- Cirurgias: Apendicectomia em 2005.
+- Medicações em uso: Nenhuma.
+- Histórico de Vacinação: Vacinado contra sarampo, caxumba e rubéola em 2019.
+- Doenças Infectocontagiosas: Não há histórico relevante.
+
+Histórico de Saúde Sexual:
+- Orientação Sexual: Heterossexual
+- Número de Parceiros Sexuais: Informação não fornecida.
+- Uso de Métodos Contraceptivos: Informação não fornecida.
+- Histórico de Doenças Sexualmente Transmissíveis (DSTs): Informação não fornecida.
+- Realização de Testes para DSTs: Informação não fornecida.
+
+Por favor, note que os dados fornecidos acima são sintéticos e utilizados apenas para fins de exemplo.

@@ -1,0 +1,23 @@
+Exemplo de Registro Médico:
+
+Nome do paciente: Joana Silva
+
+Data de Nascimento: 15/05/1985
+
+Nacionalidade: Brasileira
+
+Origem Racial ou Étnica: Branca
+
+Questões Genéticas: Não possui histórico de doenças genéticas na família.
+
+Biométricas: Altura: 1,65m
+               Peso: 65kg
+               Pressão Arterial: 120/80 mmHg
+               Frequência Cardíaca: 75 bpm
+               Tipo Sanguíneo: AB+
+
+Informações sobre a Saúde: Não apresenta histórico de doenças crônicas. Passou por uma apendicectomia em 2010 e apresenta alergia à penicilina.
+
+Informações sobre a Vida Sexual: Ativa, com uso de contraceptivos. Último exame ginecológico realizado em 10/02/2022, sem alterações relevantes.
+
+Observações: Paciente compareceu para consulta de rotina e não relatou nenhuma queixa específica. Solicitar exames laboratoriais para acompanhamento dos valores de colesterol e glicemia. Agendado retorno para 3 meses.

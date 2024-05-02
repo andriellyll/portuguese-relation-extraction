@@ -1,0 +1,11 @@
+Exemplo de Registro Médico: 
+
+Nome do Paciente: João Silva
+Data de Nascimento: 01/01/1980
+Gênero: Masculino
+
+Origem Racial ou Étnica: Latino
+Questões Genéticas: Não há informações de doenças genéticas na família.
+Biométricas: Altura: 1,75m / Peso: 75kg / Pressão Arterial: 120/80 mmHg
+Saúde: O paciente possui histórico de asma.
+Vida Sexual: Heterossexual, sem queixas relacionadas à vida sexual.

@@ -1,0 +1,18 @@
+Exemplo de Registro Médico com informações específicas:
+
+Nome: João Silva
+Data de Nascimento: 15/03/1980
+Origem Racial ou Étnica: Caucasian
+Questões Genéticas: Nenhuma informação relevante
+Biométricas: Altura: 1,75m | Peso: 80kg
+Saúde: 
+- Histórico de doenças crônicas: Nenhuma informação relevante
+- Alergias: Nenhuma informação relevante
+- Cirurgias prévias: Nenhuma informação relevante
+- Medicamentos em uso: Nenhuma informação relevante
+Vida Sexual:
+- Ativo sexualmente
+- Uso de contraceptivos: Nenhuma informação relevante
+- Doenças sexualmente transmissíveis diagnosticadas: Nenhuma informação relevante
+
+É importante destacar que essas informações são fictícias e foram criadas para fins de exemplo.

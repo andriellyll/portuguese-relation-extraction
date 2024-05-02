@@ -1,0 +1,90 @@
+option = {
+  title: {
+    text: 'Stacked Line'
+  },
+  tooltip: {
+    trigger: 'axis'
+  },
+  legend: {
+    top: '10%',
+    data: ['Cenário 1', 'Cenário 2', 'Cenário 3', 'Cenário 4', 'Cenário 5', 'Cenário 6', 'Cenário 7', 'Cenário 8', 'Cenário 9']
+  },
+  grid: {
+    top: '20%',
+    left: '6%',
+    right: '4%',
+    bottom: '6%',
+    containLabel: true
+  },
+  toolbox: {
+    feature: {
+      saveAsImage: {}
+    }
+  },
+  xAxis: {
+    type: 'category',
+    // boundaryGap: false,
+    data: [0.0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0],
+    label: "threshold"
+  },
+  yAxis: {
+    type: 'value'
+  },
+  series: [
+    {
+      name: 'Cenário 1',
+      type: 'line',
+      // stack: 'Total',
+      data: [1.83, 22.68, 54.33, 84.56, 97.05, 97.87, 99.14, 99.57, 100.00, 100.00, 100.00, 0.00, 0.00]
+    },
+    {
+      name: 'Cenário 2',
+      type: 'line',
+      // stack: 'Total',
+      data: [1.83, 70.52, 98.31, 99.57, 100.00, 100.00, 100.00, 100.00, 100.00, 100.00, 100.00, 0.00, 0.00]
+    },
+    {
+      name: 'Cenário 3',
+      type: 'line',
+      // stack: 'Total',
+      data: [1.83, 98.72, 99.15, 99.15, 99.15, 99.15, 99.15, 99.15, 100.00, 100.00, 100.00, 100.00, 0.00]
+    },
+    {
+      name: 'Cenário 4',
+      type: 'line',
+      // stack: 'Total',
+      data: [1.83, 37.72, 85.29, 99.15, 99.15, 99.57, 100.00, 100.00, 100.00, 100.00, 100.00, 0.00, 0.00]
+    },
+    {
+      name: 'Cenário 5',
+      type: 'line',
+      // stack: 'Total',
+      data: [1.83, 98.72, 99.15, 99.15, 99.15, 99.15, 99.15, 99.15, 100.00, 100.00, 100.00, 100.00, 0.00]
+    },
+    {
+      name: 'Cenário 6',
+      type: 'line',
+      // stack: 'Total',
+      data: [1.83, 99.15, 99.15, 99.15, 99.15, 99.15, 100.00, 100.00, 100.00, 100.00, 100.00, 100.00, 0.00]
+    },
+    {
+      name: 'Cenário 7',
+      type: 'line',
+      // stack: 'Total',
+      data: [1.83, 55.90, 81.40, 97.07, 99.15, 99.15, 100.00, 100.00, 100.00, 100.00, 100.00, 0.00, 0.00]
+    },
+    {
+      name: 'Cenário 8',
+      type: 'line',
+      // stack: 'Total',
+      data: [1.83, 96.67, 99.15, 99.15, 99.15, 100.00, 100.00, 100.00, 100.00, 100.00, 100.00, 100.00, 0.00]
+    },
+    {
+      name: 'Cenário 9',
+      type: 'line',
+      // stack: 'Total',
+      data: [1.83, 96.67, 99.15, 99.15, 99.15, 100.00, 100.00, 100.00, 100.00, 100.00, 100.00, 0.00, 0.00]
+    },
+    
+  ]
+};

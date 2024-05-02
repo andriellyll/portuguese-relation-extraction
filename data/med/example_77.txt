@@ -1,0 +1,15 @@
+Exemplo de Registro Médico com informações solicitadas:
+
+Data: 12/03/2023
+
+Nome do Paciente: João da Silva
+
+Origem Racial ou Étnica: Afrodescendente
+
+Questões Genéticas: Histórico familiar de doenças cardíacas
+
+Biométricas: Pressão arterial = 120/80 mmHg, Frequência cardíaca = 72 bpm, Peso = 75 kg, Altura = 1,80 m
+
+Informações sobre Saúde: Paciente possui hipertensão controlada com medicação, histórico de diabetes tipo 2 na família, rotina de atividade física moderada.
+
+Informações sobre Vida Sexual: Não há queixas relacionadas à vida sexual.

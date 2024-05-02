@@ -1,0 +1,10 @@
+Registro Médico:
+
+Nome: John Doe
+Data de nascimento: 01/01/1980
+Gênero: Masculino
+Origem racial ou étnica: Caucasiano
+Questões genéticas: Não possui histórico familiar de doenças genéticas hereditárias
+Biométricas: Peso: 70 kg, Altura: 1,75 m
+Saúde: Diagnosticado com diabetes tipo 2, utilizando medicação para controle do açúcar no sangue
+Vida sexual: Ativa, sem queixas relacionadas a doenças sexualmente transmissíveis.

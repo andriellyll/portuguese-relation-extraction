@@ -1,0 +1,13 @@
+Registro Médico:
+
+Paciente: João Silva
+
+Origem racial ou étnica: Latino-americano
+
+Questões genéticas: João possui histórico familiar de diabetes tipo 2
+
+Biométricas: Altura: 1,75m; Peso: 75kg; Pressão arterial: 120/80
+
+Informações sobre a saúde: João foi diagnosticado com asma no ano de 2015 e faz uso de medicamentos diários para controle da doença.
+
+Vida sexual: João relatou ter uma vida sexual ativa e não apresentar problemas relacionados à saúde sexual.

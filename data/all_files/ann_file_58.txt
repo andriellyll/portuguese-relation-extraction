@@ -1,0 +1,26 @@
+Exemplo de Registro Médico:
+
+Paciente: João da Silva  
+Data de nascimento: 05/08/1980  
+Gênero: Masculino  
+Origem racial ou étnica: Afro-brasileiro  
+Peso: 75 kg  
+Altura: 1,80 m  
+Tipo sanguíneo: A+  
+Histórico familiar: Nenhum histórico significativo de doenças genéticas na família  
+Alergias: Nenhuma conhecida  
+Condições médicas pré-existentes: Nenhuma  
+Histórico de doenças: Sofreu de bronquite asmática durante a infância, mas não apresenta sintomas atualmente  
+Medicamentos em uso: Nenhum  
+Cirurgias prévias: Apendicectomia em 2005  
+Histórico de vacinação: Todas as vacinas em dia, inclusive a vacina contra a influenza  
+Atividades físicas: Pratica corrida três vezes por semana  
+Hábitos alimentares: Alimentação balanceada, evita alimentos processados  
+Tabagismo: Não fumante  
+Consumo de álcool: Moderado (2 a 3 vezes por semana, uma dose por ocasião)  
+Principais queixas: Dores nas costas e fadiga crônica  
+Vida sexual: Ativa, utiliza contraceptivos de barreira (camisinha)  
+Histórico de doenças sexualmente transmissíveis: Nenhum caso anteriormente diagnosticado  
+Último exame preventivo: Papanicolau realizado em 01/06/2021, sem alterações  
+
+Observações adicionais: O paciente está em bom estado de saúde geral e pratica hábitos saudáveis. Foi aconselhado a fazer exames de rotina anualmente e a manter um estilo de vida saudável.

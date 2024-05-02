@@ -1,0 +1,25 @@
+Exemplo de Registro Médico com informações:
+
+Origem racial ou étnica: 
+
+- Raça/Etnia: Caucasiano
+- Nacionalidade: Brasileiro
+
+Questões genéticas:
+
+- Teste de predisposição genética à diabetes: Não possui predisposição genética
+- Teste de predisposição genética a doenças cardíacas: Possui predisposição genética
+
+Biométricas:
+
+- Altura: 1,75 metros
+- Peso: 70 kg
+- Frequência cardíaca: 72 bpm
+- Pressão arterial: 120/80 mmHg
+
+Saúde ou vida sexual:
+
+- Histórico de doenças sexualmente transmissíveis: Não possui
+- Método contraceptivo utilizado atualmente: Preservativo masculino
+
+Observação: Os dados fornecidos acima são fictícios e não representam informações reais de um indivíduo.

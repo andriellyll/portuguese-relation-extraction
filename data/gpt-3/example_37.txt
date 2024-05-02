@@ -1,0 +1,11 @@
+Exemplo de Registro Médico:
+
+Nome: João da Silva
+Idade: 35 anos
+Origem Racial ou Étnica: Pardo
+Questões Genéticas: Não há histórico genético relevante.
+Biométricas: Peso: 75 kg, Altura: 1,80 m, Tipo Sanguíneo: AB+
+Informações sobre a saúde: Hipertenso, possui histórico de diabetes na família.
+Informações sobre a vida sexual: Ativo sexualmente, utiliza contraceptivos de barreira regularmente.
+
+Espero que este exemplo ajude!

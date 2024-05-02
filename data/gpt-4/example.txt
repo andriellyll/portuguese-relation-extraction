@@ -1,0 +1,49 @@
+```json
+{
+  "documento": "Registro Médico Pessoal",
+  "paciente": {
+    "nome": "João Silva",
+    "idade": 35,
+    "origem étnica": "Afro-Brasileiro",
+    "dados": [
+      {
+        "tipo": "genético",
+        "descrição": "Portador da anemia falciforme, uma condição genética hereditária.",
+        "relação": "condição genética ligada à origem étnica"
+      },
+      {
+        "tipo": "biométrico",
+        "descrição": "Impressão digital registrada para identificação única do paciente.",
+        "relação": "dados biométricos usado para identificação"
+      },
+      {
+        "tipo": "saúde",
+        "descrição": "Histórico de diabetes tipo 2 na família, monitoramento contínuo recomendado.",
+        "relação": "estado de saúde ligado a fatores genéticos e estilo de vida"
+      },
+      {
+        "tipo": "vida sexual",
+        "descrição": "HIV positivo, em tratamento com antirretrovirais desde 2018.",
+        "relação": "informação sobre a saúde e vida sexual"
+      }
+    ]
+  },
+  "anotações": {
+    "entidades": [
+      { "nome": "João Silva", "tipo": "Pessoa", "atributos": ["nome", "idade", "origem étnica"] },
+      { "nome": "Anemia falciforme", "tipo": "Condição genética", "atributos": ["descrição", "relação"] },
+      { "nome": "Impressão digital", "tipo": "Dado biométrico", "atributos": ["descrição", "relação"] },
+      { "nome": "Diabetes tipo 2", "tipo": "Estado de saúde", "atributos": ["descrição", "relação"] },
+      { "nome": "HIV", "tipo": "Condição de saúde na vida sexual", "atributos": ["descrição", "relação"] }
+    ],
+    "relações": [
+      { "de": "Anemia falciforme", "para": "João Silva", "tipo": "Tem condição genética" },
+      { "de": "Impressão digital", "para": "João Silva", "tipo": "Dado biométrico de" },
+      { "de": "Diabetes tipo 2", "para": "João Silva", "tipo": "Risco de saúde" },
+      { "de": "HIV", "para": "João Silva", "tipo": "Condição de saúde" }
+    ]
+  }
+}
+```
+
+Este JSON é um exemplo sintético, utilizando dados fictícios, de como um registro médico poderia ser estruturado. Ele contém informações sobre a saúde, genética, biométrica e a vida sexual de um fictício paciente "João Silva". Destaca as entidades presentes no texto e as relações entre elas, conforme pedido.

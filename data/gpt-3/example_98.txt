@@ -1,0 +1,37 @@
+Exemplo de Registro Médico:
+
+Nome do Paciente: Maria Silva
+Data de Nascimento: 01/01/1980
+Sexo: Feminino
+Raça/Etnia: Asiática
+Endereço: Rua ABC, nº 123, Cidade X, Estado Y
+Telefone: (00) 0000-0000
+Estado Civil: Casada
+Profissão: Advogada
+
+Informações genéticas:
+- Não há histórico genético de doenças hereditárias conhecidas;
+- Testes genéticos não revelaram nenhuma mutação genética significativa.
+
+Informações biométricas:
+- Altura: 1,65 metros
+- Peso: 60 kg
+- Tipo sanguíneo: O positivo
+- Pressão arterial: 120/80 mmHg
+- Frequência cardíaca: 70 bpm
+- Não possui alergias conhecidas.
+
+Histórico de Saúde:
+- Não possui histórico de doenças crônicas;
+- Realizou cirurgia de apendicectomia em 2005;
+- Sofreu uma fratura no tornozelo direito em 2012;
+- Nunca foi diagnosticada com doenças sexualmente transmissíveis.
+
+Histórico de Vida Sexual:
+- Iniciou a vida sexual aos 18 anos;
+- Atualmente tem relações sexuais com seu marido;
+- Uso regular de contraceptivos de barreira;
+- Não apresenta sintomas de infecções ou doenças sexualmente transmissíveis.
+
+Observações:
+Maria Silva é uma paciente saudável, sem histórico de doenças significativas. Suas informações genéticas, biométricas e sobre sua vida sexual estão sendo registradas para fins de acompanhamento e planejamento de sua saúde. Todos os dados são tratados de forma confidencial e seguindo as normas de privacidade e ética médica.

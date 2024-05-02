@@ -1,0 +1,30 @@
+Exemplo de Registro Médico:
+
+Nome do Paciente: João Silva
+
+ID do Paciente: 123456789
+
+Data de Nascimento: 01/01/1990
+
+Origem Racial ou Étnica: Branca
+
+Questões Genéticas: Nenhuma informação genética relevante
+
+Biométricas: 
+- Peso: 70kg
+- Altura: 1,75m
+- Tipo sanguíneo: A+
+
+Informações sobre a Saúde:
+- Alergias conhecidas: Nenhuma
+- Histórico de doenças: 
+   1. Varicela (catapora) - teve aos 10 anos (2000)
+   2. Gripe - ocorreu durante a temporada de gripe de 2015
+   3. Fratura óssea no braço direito - ocorreu em 2018
+
+Informações sobre a Vida Sexual:
+- Ativo sexualmente: Sim
+- Uso regular de contraceptivos: Não
+- Parceiros(as) sexuais: 1 regular nos últimos 6 meses
+
+Este é um exemplo fictício e os dados são gerados sinteticamente para fins de ilustração.

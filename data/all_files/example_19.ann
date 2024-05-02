@@ -1,0 +1,5 @@
+T1	PERSON 46 56	João Silva
+T2	ETHNICITY 77 92	afrodescendente
+T3	SEXUAL_INFO 193 227	doenças sexualmente transmissíveis
+R1	ETHNICITY Arg1:T1 Arg2:T2	
+R2	SEXUAL_INFO Arg1:T1 Arg2:T3	

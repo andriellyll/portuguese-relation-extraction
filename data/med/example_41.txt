@@ -1,0 +1,17 @@
+Exemplo de Registro Médico com informações origem racial ou étnica, questões genéticas, biométricas e sobre a saúde ou a vida sexual de uma pessoa (dados sintéticos):
+
+Nome do paciente: João da Silva
+Data de nascimento: 01/01/1980
+Sexo: Masculino
+Origem racial ou étnica: Afrodescendente
+Questões genéticas: Não relatadas
+Biometria: Não aplicável
+Informações sobre a saúde: 
+- Histórico de diabetes tipo 2 na família
+- Hipertensão arterial diagnosticada em 2010
+- Alergia a amendoim detectada em 2015
+- Fratura de tornozelo em 2018
+- Cicatrizes de cirurgias prévias: apendicectomia em 2003, artroscopia de joelho em 2012
+Vida sexual: Ativa e sem problemas de saúde relatados.
+
+Por favor, tenha em mente que esses dados são fictícios e gerados apenas para fins ilustrativos.

@@ -1,0 +1,13 @@
+Exemplo de Registro Médico com informações sensíveis:
+
+Registro Médico do Paciente:
+Nome: João Silva
+Idade: 35 anos
+Sexo: Masculino
+Origem Racial ou Étnica: Afro-brasileiro
+Questões Genéticas: Não informado
+Biométricas: Tipo Sanguíneo A+
+Informações de Saúde: Paciente possui histórico familiar de diabetes tipo 2
+Informações sobre Vida Sexual: Não informado
+
+Observação: Os dados fornecidos neste exemplo são fictícios e não representam informações reais sobre indivíduos ou qualquer entidade. O objetivo é apenas ilustrar um exemplo de Registro Médico que contém algumas informações sensíveis.

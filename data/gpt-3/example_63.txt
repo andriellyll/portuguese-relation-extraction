@@ -1,0 +1,33 @@
+Exemplo de Registro Médico:
+
+Nome: John Doe
+Gênero: Masculino
+Data de nascimento: 01/01/1980
+Origem racial ou étnica: Caucasiano
+
+Informações genéticas:
+- Tipo sanguíneo: O+
+- Histórico familiar de doenças cardíacas: Nenhum
+- Teste genético para predisposição ao câncer de mama: Não realizado
+
+Informações biométricas:
+- Altura: 1,80m
+- Peso: 75kg
+- Frequência cardíaca: 70 bpm
+- Pressão arterial: 120/80 mmHg
+- Temperatura corporal: 36,5°C
+
+Histórico de saúde:
+- Alergias: Nenhuma
+- Cirurgias anteriores: Apendicectomia em 2005
+- Doenças crônicas: Nenhuma
+- Histórico de complicações cardíacas: Nenhuma
+- Uso regular de medicamentos: Nenhum
+
+Informações sobre a vida sexual:
+- Ativo sexualmente: Sim
+- Parceiro sexual atual: Conjugue
+- Histórico de doenças sexualmente transmissíveis: Nenhuma
+- Uso de contraceptivos: Camisinha
+
+Este é um exemplo fictício de um Registro Médico, e todas as informações apresentadas são sintéticas e não corresponder a dados reais de nenhum indivíduo.

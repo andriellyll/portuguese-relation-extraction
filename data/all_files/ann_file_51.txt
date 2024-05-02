@@ -1,0 +1,33 @@
+Exemplo de Registro Médico utilizando dados sintéticos:
+
+Nome do paciente: João da Silva
+Idade: 35 anos
+Sexo: Masculino
+Origem racial/étnica: Branca
+Número de identificação: 123456789
+
+Histórico médico:
+1. Questões genéticas:
+- Não há histórico de doenças genéticas na família.
+
+2. Biométricas:
+- Altura: 1,75 metros
+- Peso: 70 kg
+- Tipo sanguíneo: A positivo
+- Pressão arterial: 120/80 mmHg
+- Frequência cardíaca: 70 bpm
+
+3. Informações sobre a saúde:
+- Doenças crônicas: Nenhuma
+- Alergias: Nenhuma
+- Cirurgias prévias: Nenhuma
+
+4. Informações sobre a vida sexual:
+- Ativo sexualmente: Sim
+- Parceiros sexuais: 1
+- Uso de contraceptivos: Preservativo
+
+Observações médicas:
+- O paciente apresenta uma boa saúde geral e não possui nenhum histórico clínico significativo. Foi recomendado realizar exames de rotina anualmente para monitorar sua saúde.
+
+Este é um exemplo fictício e os dados aqui apresentados são totalmente sintéticos, portanto, não representam qualquer pessoa real.

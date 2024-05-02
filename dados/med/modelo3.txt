@@ -1,0 +1,4 @@
+Data da consulta: 30/01/2024
+Paciente: Emily Taylor
+Idade: 42 anos
+Histórico: Paciente apresentou sintomas de enxaqueca e vertigem. Ela relatou um histórico de enxaqueca crônica e episódios ocasionais de vertigem nos últimos cinco anos. Não há histórico de doenças cardíacas na família. Emily está atualmente tomando medicação para controle da pressão arterial.

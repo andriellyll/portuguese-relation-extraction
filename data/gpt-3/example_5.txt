@@ -1,0 +1,35 @@
+Exemplo: Formulário de Registro Médico
+
+Nome: João da Silva
+Data de Nascimento: 01/01/1990
+Gênero: Masculino
+
+Informações Origem Racial ou Étnica:
+- Raça/etnia: Caucasian
+- Nacionalidade: Brasileiro
+
+Questões Genéticas:
+- Histórico familiar de doenças genéticas: Não
+- Realizou algum teste genético anteriormente: Não
+- Possui alguma doença genética diagnosticada: Não
+
+Biométricas:
+- Altura: 1.80m
+- Peso: 75kg
+- Tipo Sanguíneo: A positivo
+- Pressão arterial: 120/80 mmHg
+- Frequência cardíaca: 70 bpm
+
+Informações sobre a Saúde ou Vida Sexual:
+- Doenças crônicas: Não
+- Alergias conhecidas: Nenhuma
+- Cirurgias prévias: Nenhuma
+- Atividade Física: Pratica exercícios 3 vezes por semana
+- Hábitos alimentares: Alimentação equilibrada
+- Uso de medicamentos contínuos: Não
+- Tabagismo: Não
+- Consumo de bebidas alcoólicas: Socialmente, uma vez por semana
+- Vida sexual ativa: Sim
+- Uso de contraceptivos: Preservativo
+
+Observações: Nenhuma.

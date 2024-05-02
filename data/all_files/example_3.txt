@@ -1,0 +1,12 @@
+Exemplo de Registro Médico contendo informações sobre origem racial ou étnica, questões genéticas, biométricas e saúde ou vida sexual de uma pessoa, utilizando dados sintéticos:
+
+Nome: João Silva
+Data de nascimento: 01/01/1980
+Gênero: Masculino
+Origem racial ou étnica: Afrodescendente
+Histórico genético: Não apresenta predisposição genética para doenças hereditárias.
+Biométricas: Altura: 1,75m / Peso: 75kg / Grupo sanguíneo: O+
+Saúde: Diagnóstico médico de asma controlada com medicamentos. Nenhuma outra doença crônica.
+Vida sexual: Ativo sexualmente, sem histórico de DSTs.
+
+Lembrando que essas informações são fictícias e apenas ilustrativas para mostrar como um registro médico pode conter esses tipos de dados.

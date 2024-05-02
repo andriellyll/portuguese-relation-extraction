@@ -1,0 +1,11 @@
+Exemplo de Registro Médico:
+
+Nome do Paciente: João da Silva
+Data de Nascimento: 01/01/1980
+Origem Racial ou Étnica: Branco
+Questões Genéticas: Não há histórico genético relevante.
+Biométricas: Altura - 1,80m / Peso - 80kg
+Informações sobre a Saúde: Paciente apresenta histórico de alergia a amendoim. Não possui histórico de doenças crônicas.
+Informações sobre a Vida Sexual: Paciente é sexualmente ativo, utiliza preservativos como método contraceptivo. Não possui histórico de doenças sexualmente transmissíveis.
+
+Este é um exemplo fictício de um registro médico, onde são mencionadas informações sobre a origem racial, questões genéticas, biométricas e sobre a saúde e vida sexual do paciente. É importante lembrar que dados sintéticos e não reais devem ser utilizados para preservar a privacidade e confidencialidade das informações pessoais dos indivíduos.

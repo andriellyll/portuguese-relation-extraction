@@ -1,0 +1,29 @@
+Exemplo em formato de texto corrido:
+
+Registro Médico de Paciente Sintético
+
+Nome do Paciente: João Silva
+
+Data de Nascimento: 15/08/1985
+
+Origem Racial ou Étnica: Branco
+
+Questões Genéticas: Nenhuma informação relevante.
+
+Informações Biométricas: Altura: 1,80m, Peso: 75kg, Tipo Sanguíneo: AB+
+
+Histórico de Saúde: 
+
+- Problemas Respiratórios: Nenhum
+- Doenças Cardíacas: Nenhum
+- Doenças Crônicas: Nenhuma
+- Alergias: Nenhuma
+
+Histórico Sexual: 
+
+- Atividade Sexual Ativa: Sim
+- Parceiro(a) Sexual Regular: Sim
+- Uso de Métodos Anticoncepcionais: Camisinha
+- Último Exame de DST: 05/02/2022 - Nenhum resultado positivo
+
+Este é um exemplo fictício e qualquer semelhança com pessoas reais é mera coincidência.

@@ -1,0 +1,34 @@
+Exemplo de Registro Médico:
+
+Nome do Paciente: João da Silva
+Data de Nascimento: 01/01/1990
+Gênero: Masculino
+Origem Racial ou Étnica: Branco
+Nível de Escolaridade: Ensino Médio Completo
+
+Informações de Saúde:
+- Histórico de doenças: Nenhum
+- Alergias: Nenhuma
+- Medicações em uso: Nenhuma
+- Cirurgias prévias: Nenhuma
+- Vacinação: Completa
+
+Informações Genéticas:
+- Histórico Familiar de Doenças Genéticas: Nenhum
+- Testes Genéticos Realizados: Nenhum
+
+Informações Biométricas:
+- Altura: 1,75m
+- Peso: 70kg
+- Pressão arterial: 120/80 mmHg
+- Frequência cardíaca: 75bpm
+- Temperatura corporal: 36,5°C
+
+Informações sobre a Vida Sexual:
+- Parceiro(a) fixo(a): Não possui
+- Uso de contraceptivos: Nenhum
+- Histórico de doenças sexualmente transmissíveis: Nenhum
+- Data da última consulta ginecológica/urologista: N/A
+
+Observações:
+O paciente está em bom estado de saúde, não apresentando nenhum sintoma ou queixa atualmente. Não há registro de condições médicas relevantes, histórico familiar de doenças genéticas ou histórico de doenças sexualmente transmissíveis. Todos os sinais vitais estão dentro dos padrões normais.

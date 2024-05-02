@@ -1,0 +1,8 @@
+Registro Médico:
+- Nome: Marina Silva
+- Data de Nascimento: 12/03/1985
+- Origem Racial ou Étnica: Parda
+- Questões Genéticas: Não possui histórico familiar de doenças genéticas
+- Informações Biométricas: Altura: 1,65m / Peso: 65kg / Tipo Sanguíneo: A+
+- Informações sobre Saúde: Diagnóstico de asma aos 20 anos de idade, fez tratamento e está controlada atualmente.
+- Informações sobre a Vida Sexual: Relata atividade sexual ativa, faz uso de contraceptivo oral combinado há 2 anos e não possui histórico de doenças sexualmente transmissíveis.

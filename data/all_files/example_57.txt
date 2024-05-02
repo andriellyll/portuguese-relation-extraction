@@ -1,0 +1,5 @@
+Exemplo de uma linha de Registro Médico contendo informações sobre a saúde de uma pessoa:
+
+01/01/2022 | Paciente: Joana Silva | Origem racial/étnica: Parda | Questões genéticas: Não relatadas | Biométricas: Peso: 65kg, Altura: 1,65m | Saúde: Diagnóstico de diabetes tipo 2 controlado com medicação | Vida sexual: Não relatado.
+
+Neste exemplo, fornecemos as informações solicitadas utilizando dados sintéticos para proteger a privacidade da pessoa em questão.

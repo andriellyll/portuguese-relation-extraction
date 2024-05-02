@@ -1,0 +1,11 @@
+Exemplo de Registro Médico:
+
+Paciente: João Silva
+Idade: 35 anos
+Origem racial/étnica: Afrodescendente
+Questões genéticas: Possui histórico familiar de doenças cardíacas
+Biométricas: Altura: 1,75m / Peso: 70kg / Tipo sanguíneo: O+
+Informações sobre a saúde: Já teve apendicite e realiza acompanhamento para controle da pressão arterial
+Vida sexual: Ativo, utiliza preservativo como método contraceptivo.
+
+Observação: Os dados fornecidos acima são fictícios e têm como objetivo a exemplificação do registro médico solicitado.

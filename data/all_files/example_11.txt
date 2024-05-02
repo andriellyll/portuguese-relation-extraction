@@ -1,0 +1,15 @@
+Exemplo:
+37-4356-AF
+
+Nome: Maria Silva
+Data de Nascimento: 15/08/1985
+Origem Racial/Etnia: Afrodescendente
+Sexo: Feminino
+Grupo Sanguíneo: O+
+Tipo de RH: Positivo
+Historial Familiar de Doenças Genéticas: Nenhum
+Biometria: Impressão digital: [dados biométricos sintéticos]
+Histórico de Saúde: Diabetes Tipo 2, Hipertensão
+Histórico de Vida Sexual: Ativa, com uso regular de métodos contraceptivos
+
+Este é um exemplo sintético de um Registro Médico que contém informações sobre a origem racial/étnica, questões genéticas, biométricas e sobre a saúde ou a vida sexual de uma pessoa. Ressaltando que os dados são fictícios e utilizados apenas para fins ilustrativos.

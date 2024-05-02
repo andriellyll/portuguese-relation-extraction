@@ -1,0 +1,10 @@
+T1	ETHNICITY 86 96	Caucasiano
+T2	MEDICAL_INFO 183 191	diabetes
+T3	MEDICAL_INFO 263 280	doenças cardíacas
+T4	BIOMETRIC 329 348	Altura: 1,75 metros
+T5	BIOMETRIC 351 362	Peso: 70 kg
+T6	MEDICAL_INFO 365 392	Frequência cardíaca: 72 bpm
+T7	MEDICAL_INFO 395 424	Pressão arterial: 120/80 mmHg
+T8	SEXUAL_INFO 464 498	doenças sexualmente transmissíveis
+T9	SEXUAL_INFO 513 533	Método contraceptivo
+T10	SEXUAL_INFO 556 568	Preservativo

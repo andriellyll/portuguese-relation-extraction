@@ -1,0 +1,13 @@
+Exemplo de Registro Médico:
+
+Formulário
+Nome: Joana Silva
+Data de Nascimento: 10/05/1985
+Gênero: Feminino
+Origem Racial ou Étnica: Parda
+Questões Genéticas: Nenhuma informação disponível.
+Biométricas: Altura: 1,65m Peso: 65kg Tipo Sanguíneo: AB+
+Informações sobre a Saúde: Rotina de exercícios físicos regulares, hábitos alimentares saudáveis.
+Informações sobre a Vida Sexual: Ativa, uso de contraceptivos.
+
+Importante ressaltar que esses dados são fictícios e foram criados apenas para exemplificar o registro médico, protegendo a privacidade e confidencialidade das informações dos pacientes reais.

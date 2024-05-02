@@ -1,0 +1,48 @@
+Registro Médico - Exemplo de Formulário:
+
+Nome do Paciente: João Silva
+
+Data de Nascimento: 10/05/1980
+
+Sexo: Masculino
+
+Origem Racial ou Étnica: Branco
+
+Questões Genéticas:
+
+- Histórico Familiar de Doenças Genéticas: Não
+- Teste Genético Realizado: Sim
+- Resultado do Teste Genético: Não identificou nenhuma anomalia genética presente
+
+Informações Biométricas:
+
+- Altura: 1,75 m
+- Peso: 75 kg
+- Composição Corporal: Normal
+- Pressão Arterial: 120/80 mmHg
+
+Saúde:
+
+- Principais Doenças/Condições Pré-existentes:
+  - Asma (diagnosticada em 2005)
+  - Colesterol Alto (controlado com medicamentos desde 2010)
+
+- Alergias:
+  - Nenhum registro de alergias conhecidas
+
+- Atividades Físicas Semanais:
+  - Caminhada: 3 vezes/sem
+  - Academia: 2 vezes/sem
+
+Vida Sexual:
+
+- Orientação Sexual: Heterossexual
+- Ativo Sexualmente: Sim
+- Uso de Preservativos: Sim
+
+Observações:
+
+- O paciente está com consulta marcada para realizar exames de rotina e atualizar seu histórico médico.
+- A pressão arterial está dentro dos parâmetros normais.
+- Os cuidados com a asma e colesterol alto estão sendo seguidos corretamente.
+- O paciente relatou ter uma vida sexual ativa e fazer uso regular de preservativos.

@@ -1,0 +1,9 @@
+Exemplo de Registro Médico contendo informações origem racial ou étnica, questões genéticas, biométricas e sobre a saúde ou a vida sexual de uma pessoa utilizando dados sintéticos:
+
+Nome: Maria Silva
+Data de Nascimento: 01/01/1980
+Gênero: Feminino
+Origem Racial ou Étnica: Afro-brasileira
+Questões Genéticas: Não há informações relevantes
+Biométricas: Altura: 1,65m / Peso: 70kg / Tipo Sanguíneo: AB+
+Saúde Sexual: Não há informações relevantes

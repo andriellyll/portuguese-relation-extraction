@@ -1,0 +1,12 @@
+Exemplo de Registro Médico:
+
+ID do Paciente: M00123
+Nome: Joana Silva
+Data de Nascimento: 25/06/1985
+Origem Racial ou Étnica: Afrodescendente
+Questões Genéticas: Não são conhecidas informações genéticas relevantes nesta pessoa
+Biométricas: Altura - 1,65m, Peso - 60kg, Tipo Sanguíneo - AB+
+Informações de Saúde: Histórico de asma desde a infância; alergia a amendoim e frutos do mar, apresentando sintomas de anafilaxia quando em contato com esses alimentos.
+Informações sobre a Vida Sexual: Não há informações disponíveis sobre a vida sexual da paciente.
+
+Obs: Os dados fornecidos são sintéticos e fictícios, qualquer semelhança com pessoas reais é mera coincidência.

@@ -1,0 +1,26 @@
+Exemplo:
+
+Registro Médico - Paciente: [Nome do paciente]
+
+Origem Racial ou Étnica: [Exemplo: Afrodescendente]
+
+Questões Genéticas: [Exemplo: Não há histórico genético de doenças cardíacas na família]
+
+Biométricas: 
+- Peso: [Exemplo: 70 kg]
+- Altura: [Exemplo: 1,75 m]
+- Índice de Massa Corporal (IMC): [Exemplo: 22.9]
+
+Informações sobre a Saúde:
+- Alergias: [Exemplo: Nenhuma alergia conhecida]
+- Doenças Crônicas: [Exemplo: Diabetes tipo 2]
+- Cirurgias Anteriores: [Exemplo: Apendicectomia em 2010]
+- Histórico de Vacinações: [Exemplo: Vacinado contra influenza em 2021]
+
+Informações sobre a Vida Sexual:
+- Orientação Sexual: [Exemplo: Heterossexual]
+- Uso de Métodos Anticoncepcionais: [Exemplo: Utilização da pílula contraceptiva]
+
+Observações adicionais: [Exemplo: O paciente relata dificuldades para dormir nas últimas semanas.]
+
+Este é apenas um exemplo fictício de um registro médico. Não contém informações reais ou pessoais.

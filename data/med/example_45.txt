@@ -1,0 +1,9 @@
+Registro Médico:
+
+Nome do paciente: João Silva
+Data de nascimento: 01/01/1985
+Origem racial ou étnica: Americano de ascendência afrodescendente
+Questões genéticas: Não foram encontradas informações genéticas relevantes no registro médico.
+Biométricas: Altura: 1,80m; Peso: 70kg; Tipo sanguíneo: A+
+Informações sobre a saúde: O paciente apresenta histórico de pressão arterial elevada.
+Informações sobre a vida sexual: Não há informações disponíveis sobre a vida sexual do paciente.

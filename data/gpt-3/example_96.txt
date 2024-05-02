@@ -1,0 +1,24 @@
+Exemplo de Registro Médico:
+
+Nome: João Silva
+Sexo: Masculino
+Data de Nascimento: 10/05/1980
+Origem Racial ou Étnica: Caucasiano
+Questões Genéticas: Nenhuma informação genética relevante 
+Altura: 1,75m
+Peso: 80 kg
+Pressão Arterial: 120/80 mmHg
+IMC (Índice de Massa Corporal): 26 (acima do peso)
+Alergias: Nenhuma
+Doenças Pré-existentes: Nenhuma
+Histórico Familiar: Diabetes tipo 2
+Medicamentos em Uso: Nenhum
+Exames Realizados:
+- Hemograma Completo: Resultado normal
+- Colesterol Total: 200 mg/dL (elevado)
+- Glicemia em Jejum: 110 mg/dL (pré-diabetes)
+- Teste de HIV: Negativo
+- Teste de Sífilis: Negativo
+Histórico de Saúde ou Vida Sexual:
+- Paciente relatou uma vida sexual ativa e regular, sem queixas ou sintomas de doenças sexualmente transmissíveis.            
+- Nenhuma informação relevante sobre a saúde sexual do paciente foi identificada durante a consulta médica.

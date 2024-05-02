@@ -1,0 +1,13 @@
+Registro Médico:
+
+Nome: Ana Silva
+Data de nascimento: 15/03/1985
+Gênero: Feminino
+
+Informações sensíveis:
+- Origem racial ou étnica: Pessoas de origem japonesa apresentam maior predisposição a problemas de visão, como miopia e astigmatismo.
+- Questões genéticas: O pai de Ana possui histórico de doença cardíaca, o que aumenta o risco de ela desenvolver problemas cardiovasculares.
+- Biométricas: Ana possui uma altura de 1,55 metros e um peso de 65 kg, o que indica um índice de massa corporal (IMC) elevado, colocando-a em risco de desenvolver doenças relacionadas à obesidade.
+- Saúde sexual: Ana relatou ter múltiplos parceiros sexuais e ter feito sexo desprotegido no último ano, colocando-a em risco de contrair doenças sexualmente transmissíveis.
+
+Essas informações são fictícias e foram criadas para ilustrar um exemplo de registro médico contendo informações sensíveis, como origem racial ou étnica, questões genéticas, biométricas e informações sobre saúde sexual de uma pessoa.

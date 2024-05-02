@@ -1,0 +1,13 @@
+TEXTO:
+
+Registro Médico
+
+Nome: Maria Silva
+Data de nascimento: 10/05/1985
+Origem racial ou étnica: Latina
+Questões genéticas: Não há histórico genético relevante
+Biométricas: Altura: 1,65m; Peso: 65kg; Tipo sanguíneo: O+
+Informações sobre a saúde: Maria possui histórico de asma, alergias sazonais e hipertensão arterial.
+Vida sexual: A paciente não possui histórico de doenças sexualmente transmissíveis e utiliza contraceptivos hormonais.
+
+FIM DO TEXTO.

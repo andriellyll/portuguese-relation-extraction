@@ -1,0 +1,34 @@
+Um exemplo de Registro Médico fictício que contém informações sobre origem racial ou étnica, questões genéticas, biométricas e sobre a saúde ou a vida sexual de uma pessoa, utilizando dados sintéticos seria:
+
+Nome do Paciente: João da Silva
+Idade: 35 anos
+Sexo: Masculino
+
+Origem Racial ou Étnica:
+- Ethnicity: Afro-Brasileiro
+
+Histórico Genético:
+- Genotype: AA
+- Teste de Paternidade: Não aplicável
+- Doenças Genéticas Hereditárias: Nenhuma identificada
+
+Informações Biométricas:
+- Altura: 1,78 metros
+- Peso: 80 kg
+- Pressão Arterial: 120/80 mmHg
+- Frequência Cardíaca: 70 bpm
+- Índice de Massa Corporal (IMC): 25 (Peso Normal)
+
+Histórico de Saúde:
+- Alergias: Nenhuma conhecida
+- Doenças Crônicas: Nenhuma diagnosticada
+- Cirurgias Prévias: Nenhuma realizada
+- Medicações em Uso: Nenhuma
+
+Histórico de Vida Sexual:
+- Parceiro(a) Atual: Sim
+- Número de Parceiros Sexuais nas últimas 12 meses: 1
+- Atividade Sexual Protegida: Sim
+- Uso de Métodos Contraceptivos: Preservativo
+
+Lembrando que essas informações fornecidas são fictícias e geradas apenas para ilustrar o exemplo solicitado.

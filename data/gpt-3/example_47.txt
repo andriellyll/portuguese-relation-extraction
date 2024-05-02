@@ -1,0 +1,40 @@
+Exemplo de Registro Médico contendo informações sobre a saúde de uma pessoa:
+
+Nome: Ana Silva
+Data de nascimento: 01/01/1990
+Gênero: Feminino
+Origem racial ou étnica: Latina
+
+Histórico familiar:
+- Pai: Sem histórico de doenças genéticas conhecidas
+- Mãe: Sem histórico de doenças genéticas conhecidas
+
+Histórico médico:
+- Alergias: Nenhuma
+- Condição médica crônica: Nenhuma
+
+Exames clínicos:
+- 08/01/2022 - Exame de sangue completo:
+  - Grupo sanguíneo: A+
+  - Níveis de colesterol: dentro da faixa normal
+  - Hemoglobina: dentro da faixa normal
+  - Glicemia: dentro da faixa normal
+
+- 10/01/2022 - teste de função pulmonar:
+  - Resultados: Função pulmonar normal
+  - Capacidade vital: 3,5 litros
+
+Histórico de consultas médicas:
+- 15/02/2021 - Consulta de rotina:
+  - Sem queixas médicas
+  - Vacinas em dia
+  - Encaminhada para exames de sangue e função pulmonar
+
+- 20/02/2021 - Retorno de exames:
+  - Resultados normais
+  - Orientações para manter hábitos saudáveis
+
+Observações adicionais:
+- A paciente relatou vida sexual ativa e usa contraceptivos orais há 2 anos.
+
+Este é um exemplo fictício para fins ilustrativos, onde foram utilizados dados sintéticos. É importante ressaltar que a privacidade e a confidencialidade dos registros médicos reais devem ser sempre respeitadas.

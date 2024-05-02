@@ -1,0 +1,21 @@
+Exemplo 1: Texto corrido
+
+Nome: Maria Santos
+Idade: 36
+Sexo: Feminino
+Origem racial ou étnica: Latina
+Questões genéticas: Nenhuma informação disponível
+Biométricas: Altura - 1,65 metros | Peso - 60 kg | Tipo sanguíneo - O+
+Informações de saúde: Maria possui histórico de pressão alta e foi diagnosticada com diabetes tipo 2 há 2 anos. Ela realiza consultas regulares com seu médico para controlar essas condições e está atualmente tomando medicamentos prescritos.
+Vida sexual: Nenhuma informação disponível sobre a vida sexual de Maria.
+
+Exemplo 2: Formulário
+
+Nome: João Silva
+Idade: 45
+Sexo: Masculino
+Origem racial ou étnica: Branco
+Questões genéticas: Não há histórico de doenças genéticas na família
+Biométricas: Altura - 1,80 metros | Peso - 80 kg | Tipo sanguíneo - AB-
+Informações de saúde: João tem um histórico de asma e faz uso de medicamentos inaladores diariamente. Ele também relatou ter hábitos alimentares saudáveis e pratica exercícios físicos regularmente.
+Vida sexual: João é casado e não relatou nenhum problema de saúde relacionado à sua vida sexual.
